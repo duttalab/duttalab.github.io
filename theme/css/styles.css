@@ -41,8 +41,8 @@ body {
 
 .sitetitle {
     font-family: 'Merriweather';
-    font-weight: 300;
-    font-size: 4em;
+    font-weight: 200;
+    font-size: 3em;
     padding-left: 10px; /* Hack to dodge :hover issue. */
     position: relative; /* Hack to dodge :hover issue. */
     left: -10px; /* Hack to dodge :hover issue. */
