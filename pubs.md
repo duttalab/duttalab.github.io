@@ -3,7 +3,7 @@
 
 ### Selected peer-reviewed abstracts and publications
 
-1.  Banerji, Ushasi, Indranil Dutta and Irfan S., 2017\.  Coarticulatory propensity in Khalkha Mongolian. In the _Proceedings of the 14th International Conference on Natural Language Processing (ICON-14)_. 18th-21st December, 2018.
+1.  Baneree, Ushasi, Indranil Dutta and Irfan S., 2017\.  Coarticulatory propensity in Khalkha Mongolian. In the _Proceedings of the 14th International Conference on Natural Language Processing (ICON-14)_. 18th-21st December, 2018.
 2.  Dutta, Indranil and Irfan S., Coarticulatory propensity in vowel harmony languages. under review.
 3.  Dutta, Indranil, Irfan S., Pamir Gogoi, Priyankoo Sarmah. 2017\. [Nature of contrast and coarticulation: Evidence from Mizo tones and Assamese vowel harmony](/pages/files/dutta_irfan_gogoi_sarmah.pdf) . Proceedings of Interspeech 2017\. 19-24th August, 2017\. Stockholm.
 4.  Mahanta, Shakuntala, Indranil Dutta , and Prarthana Acharya. 2017\. [Lexical tone in Deori: loss, contrast and word based alignment](http://journals.ed.ac.uk/pihph/article/view/1906) . Papers in Historical Phonology. Volume 2, 51-87.
