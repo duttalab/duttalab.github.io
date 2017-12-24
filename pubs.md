@@ -26,7 +26,7 @@
 ---
 ### Monograph
 
-_Acoustics of stop consonants in Hindi: Voicing, fundamental frequency and spectral intensity_. 2009\. Verlag Dr. Müller: Saarbrücken. ![Dutta2008.jpeg](http://duttalab.wikispaces.com/file/view/Dutta2008.jpeg/3589 01556/58x58/Dutta2008.jpeg)
+_Acoustics of stop consonants in Hindi: Voicing, fundamental frequency and spectral intensity_. 2009\. Verlag Dr. Müller: Saarbrücken.
 
 * * *
 
