@@ -5,6 +5,10 @@
 
 * Arya KS
 
+## Project fellows
+* Meghavarshini Krishnaswamy
+* Seema Gorur Prasad
+
 ## Masters students
 * Ushasi Banerjee
 * Molly Varghese
