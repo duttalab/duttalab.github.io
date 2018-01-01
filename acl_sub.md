@@ -10,4 +10,4 @@
 7. Text normalization so that different papers are comparable
 8. Predictive **model**: How should it predict the probablity of acceptance based on trained model from previous years.
 9. Meta evaluation in ACL anthology [here](http://aclasb.dfki.de/#doc~W07-0718*)
-10. Ken Church on reviewing the reviewers [here] (https://www.mitpressjournals.org/doi/pdf/10.1162/089120105775299131)
+10. Ken Church on reviewing the reviewers [here](https://www.mitpressjournals.org/doi/pdf/10.1162/089120105775299131)
