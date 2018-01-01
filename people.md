@@ -7,7 +7,7 @@
 
 ## Project fellows
 * Meghavarshini Krishnaswamy
-* Seema Gorur Prasad
+* [Seema Gorur Prasad] (https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)
 
 ## Masters students
 * Ushasi Banerjee
@@ -17,7 +17,7 @@
 * Neelam Chhetry
 * Priyanka Das
 * Aisha Saleh Mohdar
-* Ganesh Gupta Sinisetty
+* [Ganesh Gupta Sinisetty](https://scholar.google.com/citations?user=8eeTZAYAAAAJ&hl=en)
 
 ## Former Masters students
 * [Aanusha Ghosh](https://www.linkedin.com/in/aanusha-ghosh-96719557/), Ivona Software, Amazon Development Center
