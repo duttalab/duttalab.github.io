@@ -7,7 +7,7 @@
 
 ## Project fellows
 * Meghavarshini Krishnaswamy
-* [Seema Gorur Prasad] (https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)
+* [Seema Gorur Prasad](https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)
 
 ## Masters students
 * Ushasi Banerjee
