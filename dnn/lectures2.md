@@ -1,14 +1,14 @@
-<!--<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
-    <title>LS 387: Lecture Slides</title>
+    <title>Title</title>
     <meta charset="utf-8">
     <style>
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
       @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
-  body { font-family: 'Droid Serif'; }
+      body { font-family: 'Droid Serif'; }
       h1, h2, h3 {
         font-family: 'Yanone Kaffeesatz';
         font-weight: normal;
@@ -145,11 +145,11 @@ y_pred = per_clf.predict([[2, 0.5]])
 * One pass-through input layer
 * One or more layers of LTUs or *hidden layers*
 ---
- </textarea>
+</textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
     </script>
     <script>
       var slideshow = remark.create();
     </script>
-</body>
+  </body>
 </html>
