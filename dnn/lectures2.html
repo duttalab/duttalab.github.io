@@ -468,24 +468,25 @@ pre[class*="language-"] {
 
 <body>
 
-<p>&lt;!&ndash;&lt;!DOCTYPE html&gt;
+<p>&lt;!DOCTYPE html&gt;
 <html>
   <head>
-    <title>LS 387: Lecture Slides</title>
+    <title>Title</title>
     <meta charset="utf-8">
     <style>
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
       @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);</p>
 
-<p>body { font-family: &#39;Droid Serif&#39;; }
-      h1, h2, h3 {
-        font-family: &#39;Yanone Kaffeesatz&#39;;
-        font-weight: normal;
-      }
-      .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; }
-    </style>
-  </head>
+<div><pre><code class="language-none">  body { font-family: &#39;Droid Serif&#39;; }
+  h1, h2, h3 {
+    font-family: &#39;Yanone Kaffeesatz&#39;;
+    font-weight: normal;
+  }
+  .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; }
+&lt;/style&gt;</code></pre></div>
+
+<p></head>
   <body>
     <textarea id="source"></p>
 
@@ -593,7 +594,7 @@ and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>
 <h1 id="toc_9">The common perceptron</h1>
 
 <ul>
-<li><a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">Rosenblatt&rsquo;s perceptron</a></li>
+<li><a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">Rosenblatt&#39;s perceptron</a></li>
 <li><em>Linear Threshold Unit (LTU)</em>*</li>
 </ul>
 
@@ -605,7 +606,7 @@ and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>
 
 <ul>
 <li><a href="http://www.cse.chalmers.se/%7Ecoquand/AUTOMATA/mcp.pdf">Warren McCulloch and Walter Pitts</a></li>
-<li><a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">Rosenblatt&rsquo;s perceptron</a></li>
+<li><a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">Rosenblatt&#39;s perceptron</a></li>
 <li>Chapter 10 from <em>Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>. Aurélien Géron</li>
 <li><em>Neuronal Dynamics</em> <a href="http://neuronaldynamics.epfl.ch/online/Pt1.html">Chapter 1</a></li>
 </ul>
@@ -621,7 +622,7 @@ and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>
 <li>Fixed number of synapses have to be excited within the period of latent addition to excite a neuron.</li>
 <li>Only synaptic delay is significant</li>
 <li>Inhibitory synapse prevents excitation at a particular time</li>
-<li>Structure of the net doesn&rsquo;t change with time</li>
+<li>Structure of the net doesn&#39;t change with time</li>
 </ul>
 
 <hr>
@@ -640,8 +641,8 @@ and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>
 <h1 id="toc_14">Perceptron training</h1>
 
 <ul>
-<li><strong>Hebb&rsquo;s rule</strong></li>
-<li><q><em>&hellip;the connection weight between two neurons is increased whenever they have the same output&hellip;</em></q></li>
+<li><strong>Hebb&#39;s rule</strong></li>
+<li><q><em>...the connection weight between two neurons is increased whenever they have the same output...</em></q></li>
 <li>Wrong outputs are not reinforced</li>
 <li>\(W_{i,j}\)<sup>next step</sup> = \(W_{i,j}\) + n( \(\hat{y}_{j}\) - \(y_{j}\))\(x_{i}\)</li>
 </ul>
@@ -679,16 +680,17 @@ y_pred = per_clf.predict([[2, 0.5]])</code></pre></div>
 
 <ul>
 <li>One pass-through input layer</li>
-<li>One or more layers of LTUs or <em>hidden layers</em>
-</textarea>
-<script src="https://remarkjs.com/downloads/remark-latest.min.js">
-</script>
-<script>
-  var slideshow = remark.create();
-</script>
-</body>
-</html></li>
+<li>One or more layers of LTUs or <em>hidden layers</em></li>
 </ul>
+
+<p></textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html></p>
 
 
 

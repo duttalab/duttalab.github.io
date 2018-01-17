@@ -144,7 +144,7 @@ y_pred = per_clf.predict([[2, 0.5]])
 #Multi-layer perceptrons
 * One pass-through input layer
 * One or more layers of LTUs or *hidden layers*
----
+
 </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
     </script>
