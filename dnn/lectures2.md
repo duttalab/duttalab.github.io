@@ -31,7 +31,6 @@ _Venue_: CL Lab (117)
 _Instructor_: [Dr. Indranil Dutta](duttalab.github.io)
 
 ---
-****
 # Introduction
 Artificial neural networks have near revolutionized big data analytics. In this course we will apply deep learning to some speech and natural language processing tasks. Students will be exposed to various types of network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, Autoencoders, LSTMs, Generalized Adversarial Networks. We will also learn to execute training and testing data with these architectures with TensorFlow. 
 
@@ -149,7 +148,9 @@ y_pred = per_clf.predict([[2, 0.5]])
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
     </script>
     <script>
-      var slideshow = remark.create();
+    var slideshow = remark.create({
+  sourceUrl: 'lectures.md'
+});
     </script>
   </body>
 </html>
