@@ -1,5 +1,5 @@
 # People
-* Indranil Dutta
+* [Indranil Dutta](indranil.md)
 
 ## Current Phd Students
 

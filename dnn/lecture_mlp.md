@@ -151,3 +151,93 @@ y_pred = per_clf.predict([[2, 0.5]])
 * Node activation: sum of incoming weighted signals exceeds a designated threshold (given a step-activation function, rather than a sigmoidal activation function).
 
 ![Typical Perceptron](https://i.loli.net/2018/01/31/5a7188a25bf22.png)
+
+---
+# Weighted means and activation
+
+* Column 1: input
+* Connection weights and activation threshold of 0.5
+* The weighted sum shows the total signal received by the Output node, and its resultant activation is shown in the final column.
+
+![](https://i.loli.net/2018/02/07/5a7a734b101f2.png)
+
+---
+# XOR Logical Relations
+* Sets characterized by an “exclusive or” logical relation (XOR) cannot be picked out by this type of network
+* ☆, ♦, XOR set: “+Black, or +Star, but not both”
+* So how do we fix this?
+
+![](https://i.loli.net/2018/02/07/5a7a734b101f2.png)
+* Include an Input node that is activated by the conjunction of the features [+Black] and [+Star].
+* The weight on the connection from that node could be given a negative value sufficiently high that the black star’s activation falls beneath the 0.5 threshold
+* The other black object and the other star’s activation are above it.
+* The classificatory power of this simple type of perceptron is dependent on content of the Input nodes: with arbitrarily complex combinations of features, it can perform arbitrarily complex classifications.
+A simple MLP
+![](https://i.loli.net/2018/02/07/5a7a76f932639.png)
+---
+
+# Input to hidden layer
+
+* The weights on the connections to hidden layer Node 1 from the Input nodes are 0.26 and 0.27.
+* This results in a weighted sum of 0.53 for the **black star**, and activation only for that object given the 0.5 threshold.
+* This implements logical AND.
+* Because the weight from Node 1 to the Output node is negative, the black star receives a penalty, which implements the “but not both” clause of XOR.
+* The first node (bold) is active only when both features are present, while the second is active for objects that are either +Black or +Star (logical OR).
+
+![](https://i.loli.net/2018/02/07/5a7a8777eefa2.png)
+
+---
+# Hidden layer to output
+* Input to this layer is the last column from the previous table.
+* The activation values (2) are copied into the Node 1 and Node 2 columns of (3).
+
+![](https://i.loli.net/2018/02/07/5a7a8b0b3e61a.png)
+
+___
+# Task in class
+* Read and implement a Leaky Integrate and Fire model
+
+```
+from numpy import *
+from pylab import *
+
+## setup parameters and state variables
+T       = 50                  # total time to simulate (msec)
+dt      = 0.125               # simulation time step (msec)
+time    = arange(0, T+dt, dt) # time array
+t_rest  = 0                   # initial refractory time
+
+## LIF properties
+Vm      = zeros(len(time))    # potential (V) trace over time
+Rm      = 1                   # resistance (kOhm)
+Cm      = 10                  # capacitance (uF)
+tau_m   = Rm*Cm               # time constant (msec)
+tau_ref = 4                   # refractory period (msec)
+Vth     = 1                   # spike threshold (V)
+V_spike = 0.5                 # spike delta (V)
+
+## Input stimulus
+I       = 1.5                 # input current (A)
+
+## iterate over each time step
+for i, t in enumerate(time):
+  if t > t_rest:
+    Vm[i] = Vm[i-1] + (-Vm[i-1] + I*Rm) / tau_m * dt
+    if Vm[i] >= Vth:
+      Vm[i] += V_spike
+      t_rest = t + tau_ref
+
+## plot membrane potential trace
+plot(time, Vm)
+title('Leaky Integrate-and-Fire Example')
+ylabel('Membrane Potential (V)')
+xlabel('Time (msec)')
+ylim([0,2])
+show()
+
+```
+---
+# Spiking Neural networks
+* Why spiking neural Networks?
+* Speech and Language are dynamic process where decisions and predictions about upcoming segments/words/categories is generated dynamically during processing
+* The artificial neural networks that we are familiar with use various architectures, namely, Recurrent Neural Networks to model this dynamic tuning.
