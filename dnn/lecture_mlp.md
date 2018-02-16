@@ -5,7 +5,7 @@ _Friday_: 11:00 - 1:00
 
 _Venue_: CL Lab (117)
 
-_Instructor_: [Dr. Indranil Dutta](duttalab.github.io)
+_Instructor_: [Dr. Indranil Dutta](https://duttalab.github.io/)
 
 ---
 # Introduction
@@ -13,7 +13,7 @@ Artificial neural networks have near revolutionized big data analytics. In this 
 
 ---
 # Reading material
-1. *Hands-On Machine Learning with Scikit-Learnand TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems*. Aurélien Géron
+1. *Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems*. Aurélien Géron
 2. *Deep Learning with Python*. François Chollet
 
 
@@ -241,3 +241,9 @@ show()
 * Why spiking neural Networks?
 * Speech and Language are dynamic process where decisions and predictions about upcoming segments/words/categories is generated dynamically during processing
 * The artificial neural networks that we are familiar with use various architectures, namely, Recurrent Neural Networks to model this dynamic tuning.
+
+---
+# Today
+* Discussion about projects
+# Simple MLPs with keras in R
+* https://www.datacamp.com/community/tutorials/keras-r-deep-learning
