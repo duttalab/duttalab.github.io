@@ -1,3 +1,6 @@
+library(keras)
+use_condaenv("r-tensorflow")
+install_tensorflow()
 # Make your dummy data
 data <- matrix(rexp(1000*784), nrow = 1000, ncol = 784)
 
@@ -53,5 +56,77 @@ iris.training <- iris[ind==1, 1:4]
 iris.test <- iris[ind==2, 1:4]
 
 # Split the class attribute
-iris.trainingtarget <- iris[ind==1, 5]
-iris.testtarget <- iris[ind==2, 5]
+iris.trainingtarget <- iris[ind==1, 4]
+iris.testtarget <- iris[ind==2, 4]
+
+iris.trainLabels <- to_categorical(iris.trainingtarget)
+
+# One hot encode test target values
+iris.testLabels <- to_categorical(iris.testtarget)
+
+# Print out the iris.testLabels to double check the result
+print(iris.testLabels)
+iris.trainLabels <- to_categorical(iris.trainingtarget)
+iris.testLabels <- to_categorical(iris.testtarget)
+
+# Print out the iris.testLabels to double check the result
+print(iris.testLabels)
+
+iris.testLabels <- to_categorical(iris.testtarget)
+
+# Print out the iris.testLabels to double check the result
+print(iris.testLabels)
+
+# Initialize a sequential model
+model <- keras_model_sequential() 
+
+# Add layers to the model
+model %>% 
+  layer_dense(units = 8, activation = 'relu', input_shape = c(4)) %>% 
+  layer_dense(units = 3, activation = 'softmax')
+# Print a summary of a model
+summary(model)
+
+# Get model configuration
+get_config(model)
+
+# Get layer configuration
+get_layer(model, index = 1)
+
+# List the model's layers
+model$layers
+
+# List the input tensors
+model$inputs
+
+# List the output tensors
+model$outputs
+
+# Compile the model
+model %>% compile(
+  loss = 'categorical_crossentropy',
+  optimizer = 'adam',
+  metrics = 'accuracy'
+)
+
+# Fit the model 
+model %>% fit(
+  iris.training, 
+  iris.trainLabels, 
+  epochs = 200, 
+  batch_size = 5, 
+  validation_split = 0.2
+)
+
+# Store the fitting history in `history` 
+history <- model %>% fit(
+  iris.training, 
+  iris.trainLabels, 
+  epochs = 200,
+  batch_size = 5, 
+  validation_split = 0.2
+)
+
+# Plot the history
+plot(history)
+
