@@ -1,6 +1,6 @@
-library(keras)
-use_condaenv("r-tensorflow")
+library(kerasR)
 install_tensorflow()
+use_condaenv("r-tensorflow")
 # Make your dummy data
 data <- matrix(rexp(1000*784), nrow = 1000, ncol = 784)
 
