@@ -1,4 +1,7 @@
 library(kerasR)
+library(keras)
+install.packages('devtools')
+devtools::install_github("statsmaths/kerasR")
 install_tensorflow()
 use_condaenv("r-tensorflow")
 # Make your dummy data
@@ -130,3 +133,5 @@ history <- model %>% fit(
 # Plot the history
 plot(history)
 
+?dataset_cifar10 #to see the help file for details of dataset
+cifar<-dataset_cifar10()
