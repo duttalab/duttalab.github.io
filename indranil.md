@@ -1,5 +1,6 @@
 # Indranil Dutta
 ## Short Bio
+Dr. Indranil Dutta has a PhD in Linguistics 
 
 <img src="yomad.jpg" alt="Drawing" style="width: 200px;"/>
 
