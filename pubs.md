@@ -3,7 +3,7 @@
 
 ### Selected peer-reviewed abstracts and publications
 
-1.  Banerjee, Ushasi, Indranil Dutta and Irfan S., 2017\.  Coarticulatory propensity in Khalkha Mongolian. In the _Proceedings of the 14th International Conference on Natural Language Processing (ICON-14)_. 18th-21st December, 2018.
+1.  Banerjee, Ushasi, Indranil Dutta and Irfan S., 2017\.  [Coarticulatory propensity in Khalkha Mongolian](https://ltrc.iiit.ac.in/icon2017/proceedings/icon2017/pdf/W17-7544.pdf). In the _Proceedings of the 14th International Conference on Natural Language Processing (ICON-14)_. pp. 351-356.
 2.  Dutta, Indranil and Irfan S., Coarticulatory propensity in vowel harmony languages. under review.
 3.  Dutta, Indranil, Irfan S., Pamir Gogoi, Priyankoo Sarmah. 2017\. [Nature of contrast and coarticulation: Evidence from Mizo tones and Assamese vowel harmony](/pages/files/dutta_irfan_gogoi_sarmah.pdf) . Proceedings of Interspeech 2017\. 19-24th August, 2017\. Stockholm.
 4.  Mahanta, Shakuntala, Indranil Dutta , and Prarthana Acharya. 2017\. [Lexical tone in Deori: loss, contrast and word based alignment](http://journals.ed.ac.uk/pihph/article/view/1906) . Papers in Historical Phonology. Volume 2, 51-87.
@@ -89,4 +89,3 @@ Indranil Dutta. 2015\. Review of '_Turbulent sounds: An interdisciplinary guide_
 1.  Dutta, Indranil, Mimi Kevichüsa Ezung, Shakuntala Mahanta, and Savio Megolhuto Meyase. In preparation. Lexical tones of Tenyidie: Fundamental frequency, voice quality and pitch modeling. In _Proceedings of the Workshop on Tone and Intonation: Theory, Typology and Computation_. Department of Humanities and Social Sciences, January 26-27, 2012: IIT Guwahati.
 2.  Dutta, Indranil. In preparation. Acoustic cues enhancing contrasts: In support of a theory of enhancement. To be submitted to _Journal of Phonetics_.
 3.  Dutta, Indranil. In preparation. Using Locus Equations for retrieving coronal constrictions: Interactions between coarticulatory and contrastive forces.-->
-
