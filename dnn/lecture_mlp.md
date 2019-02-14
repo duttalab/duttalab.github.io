@@ -1,7 +1,7 @@
 
 # LS 387 Artificial Neural Networks and Deep Learning for Natural Language Processing
-_Wednesday_: 9:00 - 11:00
-_Friday_: 11:00 - 1:00
+_Tuesday_: 1:00 - 1:00
+_Thursday_: 11:00 - 1:00
 
 _Venue_: CL Lab (117)
 

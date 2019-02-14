@@ -1,32 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title</title>
-    <meta charset="utf-8">
-    <style>
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-      body { font-family: 'Droid Serif'; }
-      h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz';
-        font-weight: normal;
-      }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-    </style>
-  </head>
-  <body>
-    <textarea id="source">
-
-class: center, middle
-
-
 # LS 387 Artificial Neural Networks and Deep Learning for Natural Language Processing
-_Wednesday_: 9:00 - 11:00
-_Friday_: 11:00 - 1:00
+_Tuesday-Thursday_: 11:00 - 1:00
 
-_Venue_: CL Lab (117)
+_Venue_: EMMRC Room No. 10
 
 _Instructor_: [Dr. Indranil Dutta](duttalab.github.io)
 
@@ -91,7 +66,7 @@ Artificial neural networks have near revolutionized big data analytics. In this 
 ![LTU](ltu.png)
 
 ---
-# Readings for Wednesday
+# Readings for Thursday
 * [Warren McCulloch and Walter Pitts](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)
 * [Rosenblatt's perceptron](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf)
 * Chapter 10 from *Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems*. Aurélien Géron
@@ -143,14 +118,3 @@ y_pred = per_clf.predict([[2, 0.5]])
 #Multi-layer perceptrons
 * One pass-through input layer
 * One or more layers of LTUs or *hidden layers*
-
-</textarea>
-    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
-    </script>
-    <script>
-    var slideshow = remark.create({
-  sourceUrl: 'lectures.md'
-});
-    </script>
-  </body>
-</html>

@@ -1,8 +1,7 @@
 # LS 387 Artificial Neural Networks and Deep Learning for Natural Language Processing
-_Wednesday_: 9:00 - 11:00
-_Friday_: 11:00 - 1:00
+_Tuesday-Thursday_: 11:00 - 1:00
 
-_Venue_: CL Lab (117)
+_Venue_: EMMRC Room No. 10
 
 _Instructor_: [Dr. Indranil Dutta](duttalab.github.io)
 
