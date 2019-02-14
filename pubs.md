@@ -1,7 +1,7 @@
 ### Selected peer-reviewed abstracts and publications
 
 
-1. Dutta, Indranil, Charles Redmon, Meghavarshini Krishnaswamy, Sarath Chandran, Nayana Raj. 2019. Articulatory complexity and lexical contrast density in models of coronal coarticulation in Malayalam. *Proceedings of the International Congress of Phonetic Sciences*. 
+1. Dutta, Indranil, Charles Redmon, Meghavarshini Krishnaswamy, Sarath Chandran, Nayana Raj. 2019. Articulatory complexity and lexical contrast density in models of coronal coarticulation in Malayalam. *Proceedings of the International Congress of Phonetic Sciences*. 5th-9th August, Melbourne.
 2. Dmitrieva, Olga and Indranil Dutta. 2018. [Acoustic correlates of the four-way laryngeal contrast in Marathi stops.](https://asa.scitation.org/doi/10.1121/1.5035745) In the *Proceedings of the 175th meeting of the Acoustical Society of America*. Volume 143, Issue 3, pp. 1756.
 2. Banerjee, Ushasi, Indranil Dutta, and Meghavarshini Krishnaswamy. 2018. [Evidence for active cavity expansion through advanced lingual place of constriction in voiced geminates.](https://asa.scitation.org/doi/abs/10.1121/1.5035741) In the *Proceedings of the 175th meeting of the Acoustical Society of America*. Volume 143, Issue 3, pp. 1754.
 3. Dutta, Indranil and Molly Varghese. 2018. [Consonant-f0 interaction in Malayalam stops: Automatic or controlled?](https://asa.scitation.org/doi/abs/10.1121/1.5035751) In the *Proceedings of the 175th meeting of the Acoustical Society of America*. Volume 143, Issue 3, pp. 1757.
