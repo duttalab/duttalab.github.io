@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 <div style="float: left">
 	    <img align="left" img src="idlab.png" alt="Dr. Dutta" style="width: 200px; display:block; margin:15px"/>
 </div>
