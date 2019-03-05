@@ -1,3 +1,4 @@
+## Principal Investigator
 * [Indranil Dutta](indranil.md)
 
 ## Current Phd Students
@@ -5,12 +6,12 @@
 * Arya KS
 
 ## Project fellows
-* Meghavarshini Krishnaswamy
+* [Meghavarshini Krishnaswamy](https://scholar.google.co.in/citations?user=9HzdoS0AAAAJ&hl=en)
 * [Seema Gorur Prasad](https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)
 
 ## Masters students
-* Ushasi Banerjee
-* Molly Varghese
+* Sarath M. Chandran
+* Nayana Raj
 
 ## Former PhD Students
 * Neelam Chhetry
@@ -19,6 +20,8 @@
 * [Ganesh Gupta Sinisetty](https://scholar.google.com/citations?user=8eeTZAYAAAAJ&hl=en)
 
 ## Former Masters students
+* Ushasi Banerjee
+* Molly Varghese
 * [Aanusha Ghosh](https://www.linkedin.com/in/aanusha-ghosh-96719557/), Ivona Software, Amazon Development Center
 * Pamir Gogoi, University of Florida
 * [Ayushi Pandey](https://scholar.google.co.in/citations?user=v_2A9F0AAAAJ&hl=en), Johns Hopkins University
