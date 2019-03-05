@@ -76,42 +76,42 @@ expansion in Bengali voiced geminates. 2018. Paper presented at the Fifth Annual
 12.  Gupta, Ganesh and Indranil Dutta. 2013\. Labial coarticulatory resistance to vowel harmony in Telugu. In proceedings of the _Joint meeting of the French Acoustical_ _Society_ _and the Acoustical Society of India_. New Delhi. 10th-15th November, 2013.
 13.  Dutta, Indranil and Charles Redmon. 2013\. Phonetic routes of tonogenesis in North-Western modern Indo-Aryan languages. _2nd Workshop on Tone and Intonation: Models, Computation and Evaluation_. Hyderabad. 21st-22nd February, 2013.
 
-####2012
+#### 2012
 14.  Dutta, Indranil, Jasmine Maria George and Minu Sara Paul. 2012\. Consonant-f0 interaction under predictable voicing: f0 lowering due to phonetic factors. Paper to be presented at the _34th All India Conference of Linguists._ North-East Hill University. Shillong.1st-3rd November, 2012.
 15.  Dutta, Indranil, Jasmine Maria George and Minu Sara Paul. 2012\. Consonant-f0 interaction under predictable voicing: f0 lowering due to phonetic factors. Poster to be presented at the _164th Meeting of the Acoustical Society of America_. Kansas City, MO, 22nd-26th October, 2012.
 
-####2011
+#### 2011
 16.  Arora, Aditi and Indranil Dutta. 2011\. Louder is longer: RMS amplitude induced gemination in Siraiki. Poster presented at the _162nd Meeting of the Acoustical Society of America_. San Diego, CA, 31st October-4th November, 2011.
 
-####2010
+#### 2010
 17.  Hock, Hans Henrich and Indranil Dutta. 2010\. Prosody vs. Syntax: Prosodic rebracketing of final vocatives in English. Poster presented at the _5th International Conference on Speech Prosody_. Chicago. 11th-14th May, 2010.
 
-####2009
+#### 2009
 18.  Dutta, Indranil. 2009\. Enhancement of Universal Features: Evidence from Stop Contrasts in Hindi. Paper presented at the _Mid-America Linguistics Conference_. Columbia, MO. 9th-11th October.
 
-####2008
+#### 2008
 19.  Dutta, Indranil. 2008\. Spectrotemporal and f0 evidence for a theory of enhancement. Paper presented at the _Acoustics 2008 meeting_. Paris, France. June 29th-July 4th.
 20.  Dutta, Indranil. 2008\. Cues enhancing contrasts: Durational, f0 and spectral intensity evidence from Hindi. Paper presented at the _Annual Linguistics Society of America meeting_. Chicago, IL. January 3rd-6th.
 
-####2007
+#### 2007
 21.  Hock, Hans Henrich and Indranil Dutta. 2007\. Prosody vs. Syntax: Prosodic rebracketing of final vocatives in English. Paper presented at the _11th annual meeting of the Texas Linguistics Society_. Austin, TX. 9th-11th November, 2007.
 
-####2006
+#### 2006
 22.  Dutta, Indranil and Hans Henrich Hock. 2006\. Interaction of verb accentuation and utterance finality in Bangla. Paper presented at the _3rd International Conference on Speech Prosody_. Dresden. 2nd-5th May, 2006.
 
-####2005
+#### 2005
 23.  Dutta, Indranil. 2005\. Durational, f0 and spectral characteristics of Hindi stops. Paper presented at the _Conference on Turbulences, Zentrum für Allgemeine Sprachwissenschaft, Typologie und Universalienforschung (ZAS)_. Berlin, 13th-14th October.
 24.  Dutta, Indranil. 2005\. Voicing, aspiration and f0 properties of Hindi stops. Paper presented at the _25th South Asian Language Analysis Roundtable_, 15th-18th September.
 25.  Dutta, Indranil. 2005\. Voicing, aspiration and f0 characteristics of Hindi stops: A study of interactions. _Departmental Linguistics Seminar. Urbana-Champaign_. April 14th.
 26.  Dutta, Indranil and Hock, Hans Henrich. 2005\. Interaction of verb accentuation and utterance finality revisited: Evidence from Bangla. Paper presented at the _International Conference on South Asian Languages (ICOSAL) VI_. Osmania University, Hyderabad, India. 6th-8th January.
 
-####2003
+#### 2003
 27.  Dutta, Indranil. 2003\. Re-evaluating Munda influence on eastern IA development of the Quotative Complex. Paper presented at the _32nd Annual Conference on South Asia_. Madison, Wisconsin. 24th-26th October.
 28.  Dutta, Indranil. 2003\. Voicing Lead Time (VLT) and f0 properties of Hindi breathy voiced stops. Paper presented at the _9th Mid-Continental Workshop on Phonology. Urbana- Champaign_. 31st October - 2nd November.
 29.  Hock, Hans Henrich, Sandra Chavarria-Klahn and Indranil Dutta. 2003\. Not your usual “Paper Boy” paper: A progress report of research on phrasal prosody. _Departmental Linguistics Seminar_. 16th October.
 30.  Dutta, Indranil. 2003\. Correlation between Voicing Lead Time (VLT) and f0 lowering following breathy voiced stops in Hindi. Paper presented at the _39th Annual Meeting of the Chicago Linguistic Society_. Chicago, 10th-12th April.
 
-####2002
+#### 2002
 31.  Dutta, Indranil. 2002\. Voicing Lead Time (VLT) and f0 cues for voiced aspirated and plain voiced stops in Hindi. Paper presented at the _22nd South Asian Language Analysis Roundtable_. University of Iowa. 21st-23rd June.
 32.  Dutta, Indranil and Hans Henrich Hock. 2001\. Prosody and finality: The case of Bangla. Paper presented at the _International Conference on South Asian Languages (ICOSAL) III, Hyderabad_, 4-6 January.
 
