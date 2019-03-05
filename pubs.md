@@ -65,7 +65,7 @@ expansion in Bengali voiced geminates. 2018. Paper presented at the Fifth Annual
 5.  Pandey, Ayushi and Indranil Dutta. 2015\. [Acoustics of articulatory constraints: Vowel classification and nasalization](/pages/files/Interspeech_Poster.pdf). Poster presented at _Interspeech_ _2015_. 6-10th September, 2015\. Dresden.
 6.  Gupta, Ganesh and Indranil Dutta. 2015\. [The role of labiolingual gestural coordination in spatiotemporal facilitation of speech production in Turkish, Turkmen and Hindi](/pages/files/icphsposter.pdf). Poster presented at the _18th International Congress of Phonetic Sciences_. 10-14th August, 2015\. Glasgow.
 
-####2014
+#### 2014
 7.  Pandey, Ayushi and Indranil Dutta. 2014\. [Bundeli Folk‐Song Genre Classification with kNN and SVM](/pages/files/ICON_2014_Poster.pdf)[.](Bundeli%20Folk%E2%80%90Song%20Genre%20Classification%20with%20kNN%20and%20SVM..html) 3_6th Annual and 2nd International Conference of Linguistics Society of India (ICOLSI-36)._ 1st-4th December, 2014
 8.  Indranil Dutta. 2014\. Separating stop place categories in dense coronal systems: Formant transition patterns in Malayalam. 36th Annual and 2nd International Conference of Linguistics Society of India (ICOLSI-36). 1st-4th December, 2014
 9.  Ghosh, Aanusha and Indranil Dutta. 2014\. [R](files/LSN2014_Ghosh_Dutta.pdf)[eal-time sentiment analysis of Hindi tweets](/pages/files/LSN2014_Ghosh_Dutta.pdf). _35th Annual Conference of the Linguistics Society of Nepal_. 25th-26th November, 2014.
