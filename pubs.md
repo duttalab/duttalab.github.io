@@ -41,6 +41,7 @@ Indranil Dutta. 2015\. Review of '_Turbulent sounds: An interdisciplinary guide_
 ### Conference presentations
 #### 2019
 1. Singh, Neelam and Indranil Dutta. 2019. Sociophonetic conditioning of f0 range compression in diasporic Nepali communities. Paper to be presented at the Special Session on Language Contact in South Asia at the South Asian Languages Analysis (SALA) roundtable. 29th-31st October. Paris.
+2. Dutta, Indranil, Pamir Gogoi, and Ratree Wayland. 2019. Coarticularoty Resistance in Assamese Stops. Paper to be presented at the 177th Meeting of the Acoustical Society of America. Lousville. 13-17 May, 2019. Minneapolis.
 2. Dutta, Indranil, Charles Redmon, Meghavarshini Krishnaswamy, Sarath Chandran, Nayana Raj. 2019. Articulatory complexity and lexical contrast density in models of coronal coarticulation in Malayalam. *Paper to be presented at the International Congress of Phonetic Sciences*. 5th-9th August, Melbourne.
 
 
