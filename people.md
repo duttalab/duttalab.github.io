@@ -3,27 +3,29 @@
 
 ## Current Phd Students
 
-* Arya KS (submitted)
+* Maumita Bhaumik
+* Anannya Mandal
 
-## Project fellows
+<!--## Project fellows
 * [Meghavarshini Krishnaswamy](https://scholar.google.co.in/citations?user=9HzdoS0AAAAJ&hl=en)
-* [Seema Gorur Prasad](https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)
+* [Seema Gorur Prasad](https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)-->
 
-## Masters students
+<!--## Masters students
 * Sarath M. Chandran
 * Nayana Raj
-
+-->
 ## Former PhD Students
 * Neelam Chhetry
 * Priyanka Das
+* Arya KS (submitted)
 * Aisha Saleh Mohdar
 * [Ganesh Gupta Sinisetty](https://scholar.google.com/citations?user=8eeTZAYAAAAJ&hl=en)
 
 ## Former Masters students
-* Ushasi Banerjee
-* Molly Varghese
+<!--* Ushasi Banerjee-->
+* Molly Varghese, doctoral student, The EFL University
 * [Aanusha Ghosh](https://www.linkedin.com/in/aanusha-ghosh-96719557/), Ivona Software, Amazon Development Center
 * Pamir Gogoi, University of Florida
 * [Ayushi Pandey](https://scholar.google.co.in/citations?user=v_2A9F0AAAAJ&hl=en), Johns Hopkins University
 * [Charlie Redmon](http://redmonc.github.io/), University of Kansas
-* Irfan Shailendra, University of Illinois at Urbana-Champaign
+<!--* Irfan Shailendra, University of Illinois at Urbana-Champaign-->
