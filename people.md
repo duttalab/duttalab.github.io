@@ -4,10 +4,10 @@
 ## Current Phd Students
 
 * Maumita Bhaumik
-* Anannya Mandal
+* Anannya Mondal
 
 ## Former Project fellows
-* [Meghavarshini Krishnaswamy](https://scholar.google.co.in/citations?user=9HzdoS0AAAAJ&hl=en)
+* [Meghavarshini Krishnaswamy](https://scholar.google.co.in/citations?user=9HzdoS0AAAAJ&hl=en), University of Arizona
 * [Seema Gorur Prasad](https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)
 
 <!--## Masters students
