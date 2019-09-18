@@ -6,9 +6,9 @@
 * Maumita Bhaumik
 * Anannya Mandal
 
-<!--## Project fellows
+## Former Project fellows
 * [Meghavarshini Krishnaswamy](https://scholar.google.co.in/citations?user=9HzdoS0AAAAJ&hl=en)
-* [Seema Gorur Prasad](https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)-->
+* [Seema Gorur Prasad](https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en)
 
 <!--## Masters students
 * Sarath M. Chandran
