@@ -3,7 +3,7 @@
 
 ## Current Phd Students
 
-* Arya KS
+* Arya KS (submitted)
 
 ## Project fellows
 * [Meghavarshini Krishnaswamy](https://scholar.google.co.in/citations?user=9HzdoS0AAAAJ&hl=en)
