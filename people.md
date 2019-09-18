@@ -1,4 +1,4 @@
-## Principal Investigator
+## People
 * [Indranil Dutta](indranil.md)
 
 ## Current Phd Students
