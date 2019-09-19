@@ -1,15 +1,15 @@
-# LS 387 Artificial Neural Networks and Deep Learning for Natural Language Processing
-_Tuesday-Thursday_: 11:00 - 1:00
+# Artificial Neural Networks
+<!--_Tuesday-Thursday_: 11:00 - 1:00
 
 _Venue_: EMMRC Room No. 10
 
-_Instructor_: [Dr. Indranil Dutta](duttalab.github.io)
+_Instructor_: [Dr. Indranil Dutta](duttalab.github.io)-->
 
 ---
 # Introduction
 Artificial neural networks have near revolutionized big data analytics. In this course we will apply deep learning to some speech and natural language processing tasks. Students will be exposed to various types of network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, Autoencoders, LSTMs, Generalized Adversarial Networks. We will also learn to execute training and testing data with these architectures with TensorFlow. 
 
----
+<!-----
 # Reading material
 1. *Hands-On Machine Learning with Scikit-Learnand TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems*. Aurélien Géron
 2. *Deep Learning with Python*. François Chollet
@@ -19,7 +19,7 @@ Artificial neural networks have near revolutionized big data analytics. In this 
 #Evaluation
 40%  | 60%
 ------------- | -------------
-3 class presentations|Final project and presentation
+3 class presentations|Final project and presentation-->
 
 ---
 # What do we mean by neural networks?
@@ -65,14 +65,14 @@ Artificial neural networks have near revolutionized big data analytics. In this 
 
 ![LTU](ltu.png)
 
----
+<!-----
 # Readings for Thursday
 * [Warren McCulloch and Walter Pitts](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)
 * [Rosenblatt's perceptron](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf)
 * Chapter 10 from *Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems*. Aurélien Géron
 * *Neuronal Dynamics* [Chapter 1](http://neuronaldynamics.epfl.ch/online/Pt1.html)
 
----
+----->
 # [Warren McCulloch and Walter Pitts](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf), 1943. *Bulletin of Mathematical Biophysics*, Vol. 5, pp. 115-133
 ## Major assumptions
 * "all-or-none" process
