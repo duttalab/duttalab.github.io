@@ -227,9 +227,6 @@ show()
 ---
 # Today
 * Discussion about projects
-# Simple MLPs with keras in R
-* https://www.datacamp.com/community/tutorials/keras-r-deep-learning
-
 
 ---
 #Vectorization
