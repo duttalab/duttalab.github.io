@@ -2,37 +2,19 @@
 
 
 1. Dmitrieva, Olga, and Indranil Dutta. 2020. [Acoustic Correlates of the Four-Way Laryngeal Contrast in Marathi.](https://www.karger.com/Article/Abstract/501673) *Phonetica*. Vol. 77, pp 209-237.
-
 2. Mahanta, Shakuntala, and Indranil Dutta. 2020. [Prolegomena to a special volume on South Asian phonetics and phonology.](https://www.degruyter.com/view/journals/jsall/6/2/article-p145.xml) *Journal of South Asian Languages and Linguistics* Volume 6: Issue 2.
-
 3. Dutta, Indranil, Charles Redmon, Meghavarshini Krishnaswamy, Sarath Chandran, and Nayana Raj. 2019. [Articulatory complexity and lexical contrast density in models of coronal coarticulation in Malayalam.](https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_980.pdf) *Proceedings of the International Congress of Phonetic Sciences*. 5th-9th August, Melbourne.
-
 4. Krishnaswamy, Meghavarshini, Indranil Dutta, and Banerjee, Ushasi. 2019. [Active cavity expansion through lingual adjustments to place of constriction in voiced geminates](https://asa.scitation.org/doi/pdf/10.1121/2.0001024) *Proceedings of Meetings on Acoustics*. Volume 33.
-
 5. Banerjee, Ushasi, Indranil Dutta and Irfan S., 2017.  [Coarticulatory propensity in Khalkha Mongolian](https://ltrc.iiit.ac.in/icon2017/proceedings/icon2017/pdf/W17-7544.pdf). In the *Proceedings of the 14th International Conference on Natural Language Processing (ICON-14)*. pp. 351-356.
-
 6. Dutta, Indranil, Irfan S., Pamir Gogoi, Priyankoo Sarmah. 2017\. [Nature of contrast and coarticulation: Evidence from Mizo tones and Assamese vowel harmony](/pages/files/dutta_irfan_gogoi_sarmah.pdf) . Proceedings of Interspeech 2017\. 19-24th August, 2017\. Stockholm.
-
 7.  Mahanta, Shakuntala, Indranil Dutta , and Prarthana Acharya. 2017\. [Lexical tone in Deori: loss, contrast and word based alignment](http://journals.ed.ac.uk/pihph/article/view/1906) . Papers in Historical Phonology. Volume 2, 51-87.
-
 8.  Pandey, Ayushi and Indranil Dutta. 2015\. [Acoustics of articulatory constraints: Vowel classification and nasalization](/pages/files/Interspeech_2015.pdf). In the _Proceedings of Interspeech 2015_. 6-10th September, 2015\. Dresden.
-
 9.  Gupta, Ganesh and Indranil Dutta. 2015\. [The role of labiolingual gestural coordination in spatiotemporal facilitation of speech production in Turkish, Turkmen and Hindi](/pages/files/icphs.pdf). In the _Proceedings of the 18th International Congress of Phonetic Sciences_. 10-14th August, 2015\. Glasgow.
-
 10.  Pandey, Ayushi and Indranil Dutta. 2014. [Bundeli Folk‐Song Genre Classification with kNN and SVM](http://ltrc.iiit.ac.in/icon/2014/proceedings/File67-p126.pdf). In the _Proceedings of the 11th International Conference on Natural Language Processing (ICON-14)_. 18th-21st December, 2014.
-<!-- 11.  Dutta, Indranil and Charlie Redmon. 2013\. [Coarticulation and contrast in static and dynamic models of second formant trajectories](/pages/files/ASA_SanFran.pdf). In the _Proceedings of the 166th meeting of the Acoustical Society of America_. 2nd-6th December, 2013. -->
-<!-- 8.  Mahanta, Shakuntala, Indranil Dutta, and Prarthana Acharya. 2013\. [Tonal alignment in Deori](http://scitation.aip.org/content/asa/journal/jasa/134/5/10.1121/1.4831407). In the _Proceedings of the 166th meeting of the Acoustical Society of America_. 2nd-6th December, 2013. -->
-<!-- 9.  Pandey, Ayushi and Indranil Dutta. 2013\. [Lyrics based genre classification in Bundeli folk songs](/pages/files/Icolsi_draft.pdf). _35th Annual and 1st International Conference of the Linguistic Society of India (ICOLSI)_. 27th-29th November, 2013. -->
 11.  Gupta, Ganesh and Indranil Dutta. 2013. [Labial coarticulatory resistance to vowel harmony in Telugu](files/999-1004.pdf). In proceedings of the _Joint meeting of the French Acoustical_ _Society_ _and the Acoustical Society of India_. New Delhi. 10th-15th November, 2013.
-
 12.  Hock, Hans Henrich and Indranil Dutta. 2013. [Prosodic incorporation of English utterance-final vocatives](http://www.openhumanitiesalliance.org/journals/eflj/article/view/39). The EFL Journal. Vol. 4, No. 2, pp. 1-20.
-<!-- 12.  Dutta, Indranil, Jasmine Maria George and Minu Sara Paul. [Consonant-f0 interaction under predictable voicing: f0 lowering due to phonetic factors](http://asadl.org/jasa/resource/1/jasman/v132/i3/p2001_s5?bypassSSO=1). _Journal of the Acoustical Society of America._ Sep;132(3):2011. -->
-<!-- 13.  Arora, Aditi and Indranil Dutta. 2011\. [Louder is longer: RMS amplitude induced gemination in Siraiki](http://scitation.aip.org/content/asa/journal/jasa/130/4/10.1121/1.3655214). _Journal of the Acoustical Society of America._ Volume 130, Issue 4, 2552.
-14.  Dutta, Indranil. 2011\. [Enhancement of laryngeal features under segmental and prosodic conditioning](http://asadl.org/jasa/resource/1/jasman/v130/i4/p2549_s4?bypassSSO=1). _Journal of the Acoustical Society of America._ Volume 130, Issue 4, pp. 2549-2549. -->
 13.  Hock, Hans Henrich and Indranil Dutta. 2010. [Prosody vs. Syntax: Prosodic rebracketing of final vocatives in English](http://speechprosody2010.illinois.edu/abstracts/100931.htm). _Proceedings of the 5th ICSA International Conference on Speech Prosody_. Chicago. 11th-14th May, 2010.
-<!-- 16.  Dutta, Indranil. 2008\. [Spectrotemporal and f0 evidence for a theory of enhancement.](http://webistem.com/acoustics2008/acoustics2008/cd1/data/articles/001796.pdf) _Journal of the Acoustical Society of America_. Volume 123, Issue 5, pp. 3177. -->
 14.  Dutta, Indranil. 2007. [Correlation between Voicing Lead Time (VLT) and f0](http://www.amazon.com/CLS-39-1-Session-Meeting-Linguistic/dp/1434304302/ref=sr_1_2?s=books&ie=UTF8&qid=1358175866&sr=1-2&keywords=CLS+39). In _Papers from the Main Session of the 39th Regional Meeting of the Chicago Linguistic Society_. Amy Franklin and D. Kaiser eds. Chicago, IL: CLS, Vol: 39, 405-422.5.
-
 15.  Dutta, Indranil and Hans Henrich Hock. 2006. [Interaction of verb accentuation and utterance finality in Bangla.](http://sprosig.isle.illinois.edu/sp2006/contents/papers/PS8-11_0161.pdf) _Proceedings of the 3rd ICSA International Conference on Speech Prosody_. Rüdiger Hoffmann and Hansjörg Mixdorff eds. Studien texte zur Sprachkommunikation, 40\. Dresden: TUD press.
 
 ---
