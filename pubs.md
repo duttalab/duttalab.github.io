@@ -20,13 +20,13 @@
 ---
 ### Monograph
 
-_Acoustics of stop consonants in Hindi: Voicing, fundamental frequency and spectral intensity_. 2009\. Verlag Dr. Müller: Saarbrücken.
+[Acoustics of stop consonants in Hindi: Voicing, fundamental frequency and spectral intensity](https://www.amazon.com/Acoustics-Stop-Consonants-Hindi-fundamental/dp/363917254X). 2009. Verlag Dr. Müller: Saarbrücken.
 
 * * *
 
 ### Book reviews
 
-Indranil Dutta. 2015\. Review of '_Turbulent sounds: An interdisciplinary guide_' Journal of the International Phonetic Association, 45, pp 55-57\. doi:10.1017/S0025100314000413.
+Indranil Dutta. 2015\. Review of ['_Turbulent sounds: An interdisciplinary guide_'](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/susanne-fuchs-martine-toda-marzena-zygis-eds-turbulent-sounds-an-interdisciplinary-guide-interface-explorations-berlin-de-gruyter-mouton-2010-pp-v-384-isbn-9783110226577/87F58A51A0DF1312900B4486A1732F01). Journal of the International Phonetic Association, 45, pp 55-57.
 
 * * *
 
