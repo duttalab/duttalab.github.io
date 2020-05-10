@@ -1,3 +1,3 @@
-theme: jekyll-remote-theme-particle
-remote-theme: the-development/flex
+# theme: jekyll-theme-tactile
+remote_theme: the-development/flex
 title: Speech and Language Processing Laboratory
