@@ -1,8 +1,3 @@
----
-layout: "page"
-title: Lab members
----
-
 ## People
 * [Indranil Dutta](indranil.md)
 
