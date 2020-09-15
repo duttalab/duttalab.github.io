@@ -1,3 +1,3 @@
-theme: jekyll-theme-tactile
-remote-theme: the-development/flex
+# theme: jekyll-theme-tactile
+remote-theme: gaalcaras/academic
 title: Speech and Language Processing Laboratory
