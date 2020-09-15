@@ -1,3 +1,5 @@
 # theme: jekyll-theme-tactile
 remote-theme: ys1998/academic-portfolio
 title: Speech and Language Processing Laboratory
+plugins:
+  - jekyll-include-cache
