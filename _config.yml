@@ -1,5 +1,5 @@
 #theme: jekyll-theme-tactile
-remote-theme: gaalcaras/academic
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 title: Speech and Language Processing Laboratory
 plugins:
   - jekyll-include-cache
