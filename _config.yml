@@ -1,3 +1,9 @@
 theme: jekyll-theme-tactile
-remote-theme: the-development/flex
+#remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 title: Speech and Language Processing Laboratory
+plugins:
+  - jekyll-include-cache
+
+url:  # should be empty
+baseurl:  # should be empty
+serve_og_meta: true
