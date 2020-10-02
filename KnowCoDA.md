@@ -1,4 +1,4 @@
-![logo](knowcoda.png)
+![logo](knowcoda_logo.png)
 # #KnowCoDA: Collaborative Discussion Agora
 
 ## What is #KnowCoDA?
