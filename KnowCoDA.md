@@ -1,4 +1,6 @@
-![logo](knowcoda_logo.png)
+<div style="float: left">
+        <img align="left" img src="knowcoda_logo.png" alt="#KnowCoDA" style="width: 200px; display:block; margin:15px"/>
+</div>
 # #KnowCoDA: Collaborative Discussion Agora
 
 ## What is #KnowCoDA?
