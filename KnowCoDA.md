@@ -1,5 +1,5 @@
 <div style="float: left">
-        <img align="left" img src="https://duttalab.github.io/knowcodo_logo.png" alt="#KnowCoDA" style="width: 200px; display:block; margin:15px"/>
+        <img align="left" img src="https://duttalab.github.io/knowcodo_logo.png" alt="#KnowCoDA" style="width: 100px; display:block; margin:15px"/>
 </div>
 # #KnowCoDA: Collaborative Discussion Agora
 
