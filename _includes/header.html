@@ -1,0 +1,31 @@
+<header class="header">
+<div class="navigation">
+<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+<ul class="menu">
+<!--<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li> 
+<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li> -->
+<li class="menu__entry"><a href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
+<li class="menu__entry"><a href="{{ '/pubs' | prepend: site.baseurl }}">Publications</a></li>
+<li class="menu__entry"><a href="{{ '/projects' | prepend: site.baseurl }}">Projects</a></li>
+<li class="menu__entry"><a href="{{ '/facil' | prepend: site.baseurl }}">Facilities</a></li>
+<li class="menu__entry"><a href="{{ '/KnowCoDA' | prepend: site.baseurl }}">KnowCoDa</a></li>
+</ul>
+</div>
+<ul class="social-links">
+{% if site.author.email %}
+<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
+<i class="fa fa-envelope-square"></i>
+</a>
+{% endif %}
+{% if site.author.github %}
+<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+<i class="fa fa-github"></i>
+</a>
+{% endif %}
+{% if site.author.linkedin %}
+<a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+<i class="fa fa-linkedin"></i>
+</a>
+{% endif %}
+</ul>
+</header>
