@@ -1,12 +1,18 @@
-## People
-* [Indranil Dutta](indranil.md)
+---
+layout: page
+title: People
+subtitle: --
+---
+
+## PI
+* [Indranil Dutta](indranil)
 
 <!--## Current Phd Students
 
 * Maumita Bhaumik
 * Anannya Mondal-->
 
-## Former Project fellows
+## Former Project fellows.
 * [Meghavarshini Krishnaswamy](https://scholar.google.co.in/citations?user=9HzdoS0AAAAJ&hl=en), University of Arizona
 * [Seema Gorur Prasad](https://scholar.google.co.in/citations?user=ALtM_ngAAAAJ&hl=en), University of Hyderabad
 
@@ -14,7 +20,7 @@
 * Sarath M. Chandran
 * Nayana Raj
 -->
-## Former PhD Students
+## Former PhD Students.
 * Neelam Chhetry, Assistant Professor, Department of Phonetics and Spoken English, The EFL University, Hyderabad
 * Priyanka Das
 * Arya KS (submitted)
