@@ -3,8 +3,8 @@ title: SPLangLab
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/iD-website" # the subpath of your site, e.g. /blog/
-url: "https://SwarMoi.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://duttalab.github.io/" # the base hostname & protocol for your site
 
 author:
   fullname: Indranil Dutta
