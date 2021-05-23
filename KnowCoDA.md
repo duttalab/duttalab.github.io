@@ -1,9 +1,3 @@
----
-layout: page
-title: 
-subtitle: 
----
-
 # #KnowCoDA: Collaborative Discussion Agora
 
 ## What is #KnowCoDA?

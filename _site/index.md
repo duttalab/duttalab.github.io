@@ -3,4 +3,4 @@ The speech and language processing laboratory, **SPLangLab**, at [The English an
 The general approach followed by us treats speech as a dynamic process which needs to be modeled accordingly. We study both lab-based production and we also use machine learning to learn about patterns of acoustic variation that are caused by the overlap of articulatory gestures.
 
 
-[Publications](pubs.md) [People](people.md) [Projects](projects.md) [Facilities](facil.md) [#KnowCoDA](KnowCoDA.md)
+[Publications](pubs.md) [People](people.md) [Projects](projects.md) [Facilities](facil.md)
