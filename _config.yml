@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 #remote_theme: "mmistakes/minimal-mistakes@4.20.2"
-title: Speech and Language Processing Laboratory
+title: Speech Dynamics Laboratory
 plugins:
   - jekyll-include-cache
 
