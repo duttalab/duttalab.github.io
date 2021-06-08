@@ -32,4 +32,5 @@
 * [Charlie Redmon](https://www.chredmon.com/), University of Oxford
 <!--* Irfan Shailendra, University of Illinois at Urbana-Champaign-->
 
-[Publications](pubs.md) [People](people.md) [Projects](projects.md) [Facilities](facil.md) [#KnowCoDA](KnowCoDA.md)
+[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [#KnowCoDA](KnowCoDA.md)
+
