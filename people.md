@@ -31,3 +31,5 @@
 * [Ayushi Pandey](https://scholar.google.co.in/citations?user=v_2A9F0AAAAJ&hl=en), Trinity College Dublin
 * [Charlie Redmon](https://www.chredmon.com/), University of Oxford
 <!--* Irfan Shailendra, University of Illinois at Urbana-Champaign-->
+
+[Publications](pubs.md) [People](people.md) [Projects](projects.md) [Facilities](facil.md) [#KnowCoDA](KnowCoDA.md)

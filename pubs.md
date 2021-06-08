@@ -31,6 +31,8 @@ Indranil Dutta. 2015\. Review of ['_Turbulent sounds: An interdisciplinary guide
 * * *
 
 ### Conference presentations
+#### 2020
+1. Krishnaswamy, Meghavarshini, Indranil Dutta, Maumita Bhaumik. 2020. [Alveolar stops exhibit greater coarticulatory resistance than retroflexes and dentals in Malayalam](https://vimeo.com/487728524). Paper presented at the Acoustical Society of America meeting. 
 #### 2019
 1. Singh, Neelam and Indranil Dutta. 2019. Sociophonetic conditioning of f0 range compression in diasporic Nepali communities. Paper to be presented at the Special Session on Language Contact in South Asia at the South Asian Languages Analysis (SALA) roundtable. 29th-31st October. Paris.
 2. Dutta, Indranil, Pamir Gogoi, and Ratree Wayland. 2019. Coarticulatory Resistance in Assamese Stops. Paper presented at the 177th Meeting of the Acoustical Society of America. Lousville. 13-17 May, 2019. Minneapolis.
@@ -141,3 +143,5 @@ expansion in Bengali voiced geminates. 2018. Paper presented at the Fifth Annual
 1.  Dutta, Indranil, Mimi Kevichüsa Ezung, Shakuntala Mahanta, and Savio Megolhuto Meyase. In preparation. Lexical tones of Tenyidie: Fundamental frequency, voice quality and pitch modeling. In _Proceedings of the Workshop on Tone and Intonation: Theory, Typology and Computation_. Department of Humanities and Social Sciences, January 26-27, 2012: IIT Guwahati.
 2.  Dutta, Indranil. In preparation. Acoustic cues enhancing contrasts: In support of a theory of enhancement. To be submitted to _Journal of Phonetics_.
 3.  Dutta, Indranil. In preparation. Using Locus Equations for retrieving coronal constrictions: Interactions between coarticulatory and contrastive forces.-->
+
+[Publications](pubs.md) [People](people.md) [Projects](projects.md) [Facilities](facil.md) [#KnowCoDA](KnowCoDA.md)

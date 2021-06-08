@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 #remote_theme: "mmistakes/minimal-mistakes@4.20.2"
-title: Speech Dynamics Laboratory
+title: Speech Dynamics Laboratory - SpeeDylab [spidaɪlæb]
 plugins:
   - jekyll-include-cache
 
