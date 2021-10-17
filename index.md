@@ -6,4 +6,4 @@ The general approach followed by us treats speech as a dynamic process which nee
 These are exciting times to be working on speech and language in general and we are happy to collaborate with researchers who share our vision. Drop [Prof. Indranil Dutta](mailto:indranildutta.lnl@jadavpuruniversity.in) a line if you are interested to work on speech dynamics.
 
 
-[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [Facilities](facil.md) [#KnowCoDA](KnowCoDA.md)
+[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [#KnowCoDA](KnowCoDA.md)

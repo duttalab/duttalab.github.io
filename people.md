@@ -17,10 +17,9 @@
 ## Former PhD Students
 * Neelam Chhetry, Assistant Professor, Department of Phonetics and Spoken English, The EFL University, Hyderabad
 * Priyanka Das
-* Arya KS (submitted)
+* Arya KS
 * Aisha Saleh Mohdar
 * [Ganesh Gupta Sinisetty](https://scholar.google.com/citations?user=8eeTZAYAAAAJ&hl=en)
-
 
 
 ## Former Masters students
