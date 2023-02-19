@@ -3,7 +3,8 @@
 
 
 # Introduction
-Artificial neural networks have near revolutionized big data analytics. In this course we will apply deep learning to some speech and natural language processing tasks. Students will be exposed to various types of network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, Autoencoders, LSTMs, Generalized Adversarial Networks. We will also learn to execute training and testing data with these architectures with TensorFlow.
+Artificial neural networks have near revolutionized big data analytics. How are these networks used for natural language processing tasks. 
+Types of network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, Autoencoders, LSTMs, Generalized Adversarial Networks.
 
 
 # What do we mean by neural networks?

@@ -1,6 +1,6 @@
 ### Selected peer-reviewed abstracts and publications
 
-
+1. Mitra, Auromita and Indranil Dutta. Mixed language processing increases cross-language phonetic transfer in Bengali-English bilinguals. *Bilingualism: Language and Cognition*. Forthcoming.
 1. Mandal, Atanu, Santanu Pal, Indranil Dutta, Mahidas Bhattacharya, and Sudip Kumar Naskar. 2021. [Is Attention always needed? A Case Study on Language Identification from Speech](https://arxiv.org/abs/2110.03427). *arXiv:2110.03427*
 2. Dmitrieva, Olga, and Indranil Dutta. 2020. [Acoustic Correlates of the Four-Way Laryngeal Contrast in Marathi.](https://www.karger.com/Article/Abstract/501673) *Phonetica*. Vol. 77, pp 209-237.
 3. Mahanta, Shakuntala, and Indranil Dutta. 2020. [Prolegomena to a special volume on South Asian phonetics and phonology.](https://www.degruyter.com/view/journals/jsall/6/2/article-p145.xml) *Journal of South Asian Languages and Linguistics* Volume 6: Issue 2.
