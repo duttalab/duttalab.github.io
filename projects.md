@@ -1,5 +1,4 @@
 
-## Current projects
 * Cross-language perception of coronals
 * Acoustics of code-switched and code-mixed speech
 
