@@ -1,2 +1,2 @@
-# SPLangLab
-These are the pages for the Speech and Language Processing Laboratory at The English and Foreign Languages University, Hyderabad.
+# spidaɪlæb
+These are the pages for the Speech Dynamics Laboratory (spidaɪlæb) at the School of Languages and Linguistics, Jadavpur University.

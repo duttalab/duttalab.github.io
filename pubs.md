@@ -145,4 +145,5 @@ expansion in Bengali voiced geminates. 2018. Paper presented at the Fifth Annual
 2.  Dutta, Indranil. In preparation. Acoustic cues enhancing contrasts: In support of a theory of enhancement. To be submitted to _Journal of Phonetics_.
 3.  Dutta, Indranil. In preparation. Using Locus Equations for retrieving coronal constrictions: Interactions between coarticulatory and contrastive forces.-->
 
-[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [#KnowCoDA](KnowCoDA.md)
+[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) 
+<!-- [#KnowCoDA](KnowCoDA.md) -->

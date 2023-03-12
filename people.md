@@ -1,4 +1,4 @@
-## People
+# People
 * [Indranil Dutta](indranil.md)
 
 ## Doctoral advisees
@@ -22,11 +22,12 @@
 <!--* Ushasi Banerjee-->
 <!--* Molly Varghese, doctoral student, The EFL University-->
 * [Aanusha Ghosh](https://www.linkedin.com/in/aanusha-ghosh-96719557/), Amazon, Cambridge, UK
-* [Pamir Gogoi](https://pamirgogoi.com/), University of Florida
+* [Dr. Pamir Gogoi](https://projectvani.org/), Co-Founder, Project Vernacular Archive of Northest India (VANI)
 * [Auromita Mitra](https://auromitamitra.github.io/)
 * [Ayushi Pandey](https://scholar.google.co.in/citations?user=v_2A9F0AAAAJ&hl=en), Trinity College Dublin
-* [Charles Redmon](https://www.chredmon.com/), University of Oxford
+* [Dr. Charles Redmon](https://www.chredmon.com/), University of Oxford
 <!--* Irfan Shailendra, University of Illinois at Urbana-Champaign-->
 
-[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [#KnowCoDA](KnowCoDA.md)
+[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) 
+<!-- [#KnowCoDA](KnowCoDA.md) -->
 
