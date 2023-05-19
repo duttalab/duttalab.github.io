@@ -1,5 +1,5 @@
 <div style="float: left">
-	    <img align="left" img src="dutta_web.JPG" alt="Prof. Dutta" style="width: 200px; display:block; margin:15px"/>
+	    <img align="left" img src="selfie_pro.jpeg" alt="Prof. Dutta" style="width: 200px; display:block; margin:15px"/>
 </div>
 **Indranil Dutta**
 

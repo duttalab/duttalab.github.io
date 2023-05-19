@@ -1,4 +1,4 @@
-### Selected peer-reviewed abstracts and publications
+# Publications
 1. Mitra, Auromita, Meghavarshini Krishnaswamy, and Indranil Dutta. 2023. Coarticulation and Contrast in a Vowel Harmony system: Coarticulatory Propensity in Khalkha Mongolian V-C-V Sequences. In *Proceedings of the International Congress of the Phonetic Sciences*. Prague.
 2. Prasad, Seema Gorur, Meghavarshini Krishnaswamy, Indranil Dutta, and Ramesh Kumar Mishra. 2023. Mismatched coarticulatory information hinders lexical access of coronal stops in Malayalam. In *Proceedings of the International Congress of the Phonetic Sciences*. Prague.
 3. Thakuria, Abhilasha, Pamir Gogoi, and Indranil Dutta. 2023. Low density Assamese Alveolar stops show greater coarticulatory resistance compared to Labials and Velars. In *Proceedings of the International Congress of the Phonetic Sciences*. Prague.
