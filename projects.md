@@ -1,8 +1,12 @@
 # Projects
 
 ## Current Projects
-* Cross-language perception of coronals
+* Cross-language production of coronals - acoustics, articulation, eye-movement data for lexical access
 * Acoustics of code-switched and code-mixed speech
+* L2 acquisition of Bengali by Japanese learners
+* Automated bail judgment classification and prediction using semi-supervised techniques - collaborative project with West Bengal National University of Juridical Sciences
+* Use of Divided Visual Field paradigm for acoustic data elicitation
+* Complex songs of White-bellied Sholakili 
 
 ## Completed Projects
 1. University Grants Commission Major Research Project titled, *Acoustic modeling of coronals in Axomiya, Hindi and Malayalam: Coarticulatory and contrastive constraints*. Completed. ₹10.71 Lakhs
