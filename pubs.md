@@ -35,13 +35,16 @@ Indranil Dutta. 2015\. Review of ['_Turbulent sounds: An interdisciplinary guide
 
 ### Conference presentations
 #### 2023
-1. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta \& V. V. Robin. 2023. Influence of neighbors on individual’s singing: Examining song sharing in White-bellied Sholakili. To be presented at the \emph{59th Annual Meeting of the Association for Tropical Biology and Conservation (ATBC)}. Coimbatore, TN. 2nd-6th July 2023.
-2. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta \& V. V. Robin. 2023. Can we monitor individual birds using acoustics? A case study of White-bellied Sholakili. Virtual talk at \emph{Symposium on Bird Monitoring in India 2023 (Bioacoustics mini-symposium)}. 24th-25th March 2023.
+1. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta & V. V. Robin. 2023. Influence of neighbors on individual’s singing: Examining song sharing in White-bellied Sholakili. To be presented at the 59th Annual Meeting of the Association for Tropical Biology and Conservation (ATBC). Coimbatore, TN. 2nd-6th July 2023.
+2. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta & V. V. Robin. 2023. Can we monitor individual birds using acoustics? A case study of White-bellied Sholakili. Virtual talk at Symposium on Bird Monitoring in India 2023 (Bioacoustics mini-symposium). 24th-25th March 2023.
+
 #### 2022
-1. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta \& V. V. Robin. 2022. Do neighbors influence an individual's singing? Song sharing in White-bellied Sholakili. Virtual poster at \emph{Animal Behavior Live: Annual Online Conference (ABL: AOC)}.17th-18th November 2022.
-2. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta \& V. V. Robin. 2022. Examining song sharing in highly territorial White-bellied Sholakili Sholicola albiventris. Paper presented at the \emph{National Symposium on Avian Biology (NSAB)}.Gaya, BR. 9th-11th November 2022.
+1. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta \& V. V. Robin. 2022. Do neighbors influence an individual's singing? Song sharing in White-bellied Sholakili. Virtual poster at Animal Behavior Live: Annual Online Conference (ABL: AOC).17th-18th November 2022.
+2. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta & V. V. Robin. 2022. Examining song sharing in highly territorial White-bellied Sholakili Sholicola albiventris. Paper presented at the National Symposium on Avian Biology (NSAB).Gaya, BR. 9th-11th November 2022.
+
 #### 2020
 1. Krishnaswamy, Meghavarshini, Indranil Dutta, Maumita Bhaumik. 2020. [Alveolar stops exhibit greater coarticulatory resistance than retroflexes and dentals in Malayalam](https://vimeo.com/487728524). Paper presented at the Acoustical Society of America meeting. 
+
 #### 2019
 1. Singh, Neelam and Indranil Dutta. 2019. Sociophonetic conditioning of f0 range compression in diasporic Nepali communities. Paper to be presented at the Special Session on Language Contact in South Asia at the South Asian Languages Analysis (SALA) roundtable. 29th-31st October. Paris.
 2. Dutta, Indranil, Pamir Gogoi, and Ratree Wayland. 2019. Coarticulatory Resistance in Assamese Stops. Paper presented at the 177th Meeting of the Acoustical Society of America. Lousville. 13-17 May, 2019. Minneapolis.
