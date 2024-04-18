@@ -34,6 +34,10 @@ Indranil Dutta. 2015\. Review of ['_Turbulent sounds: An interdisciplinary guide
 * * *
 
 ### Conference presentations
+
+#### 2024
+Dao, Shihao, Indranil Dutta & Adamantios Gafos. 2024. Articulatory timing in Hindi CV sequences. Presented at the 13th International Seminar on Speech Production. 13-17 May 2024, Autrans (France).
+
 #### 2023
 1. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta & V. V. Robin. 2023. Influence of neighbors on individual’s singing: Examining song sharing in White-bellied Sholakili. To be presented at the 59th Annual Meeting of the Association for Tropical Biology and Conservation (ATBC). Coimbatore, TN. 2nd-6th July 2023.
 2. Sawant, Suyash, Chiti Arvind, Viral Joshi, Indranil Dutta & V. V. Robin. 2023. Can we monitor individual birds using acoustics? A case study of White-bellied Sholakili. Virtual talk at Symposium on Bird Monitoring in India 2023 (Bioacoustics mini-symposium). 24th-25th March 2023.
