@@ -1076,44 +1076,16 @@ body .markdown-body
 .highlight .vi{color:teal}
 .highlight .il{color:#009999}
 .highlight .gc{color:#999;background-color:#EAF2F5}
-</style><title>lectures</title></head><body><article class="markdown-body"><h1 id="ls-387-artificial-neural-networks-and-deep-learning-for-natural-language-processing">LS 387 Artificial Neural Networks and Deep Learning for Natural Language Processing<a class="headerlink" href="#ls-387-artificial-neural-networks-and-deep-learning-for-natural-language-processing" title="Permanent link"></a></h1>
-<p><em>Tuesday-Thursday</em>: 11:00 - 1:00</p>
-<p><em>Venue</em>: EMMRC Room No. 10</p>
-<p><em>Instructor</em>: <a href="/Users/indranildutta/duttalab.github.io/dnn/duttalab.github.io">Dr. Indranil Dutta</a></p>
-<hr />
-<hr />
+</style><title>lecture_mlp</title></head><body><article class="markdown-body"><h1 id="artificial-neural-networks">Artificial Neural Networks<a class="headerlink" href="#artificial-neural-networks" title="Permanent link"></a></h1>
 <h1 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link"></a></h1>
-<p>Artificial neural networks have near revolutionized big data analytics. In this course we will apply deep learning to some speech and natural language processing tasks. Students will be exposed to various types of network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, Autoencoders, LSTMs, Generalized Adversarial Networks. We will also learn to execute training and testing data with these architectures with TensorFlow. </p>
-<hr />
-<h1 id="reading-material">Reading material<a class="headerlink" href="#reading-material" title="Permanent link"></a></h1>
-<ol>
-<li><em>Hands-On Machine Learning with Scikit-Learn
-and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>. Aurélien Géron</li>
-<li><em>Deep Learning with Python</em>. François Chollet</li>
-</ol>
-<hr />
-<h1 id="evaluation">Evaluation<a class="headerlink" href="#evaluation" title="Permanent link"></a></h1>
-<table>
-<thead>
-<tr>
-<th>40%</th>
-<th>60%</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>3 class presentations</td>
-<td>Final project and presentation</td>
-</tr>
-</tbody>
-</table>
-<hr />
+<p>Artificial neural networks have near revolutionized big data analytics. How are these networks used for natural language processing tasks. 
+Types of network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, Autoencoders, LSTMs, Generalized Adversarial Networks.</p>
 <h1 id="what-do-we-mean-by-neural-networks">What do we mean by neural networks?<a class="headerlink" href="#what-do-we-mean-by-neural-networks" title="Permanent link"></a></h1>
 <ul>
 <li>Biological neurons<ol>
 <li>Unusual-looking cell composed of a cell body containing the nucleus</li>
-<li>Many branching extensions called <em>dendrites</em>, </li>
-<li>One long extension called the axon. </li>
+<li>Many branching extensions called <em>dendrites</em>,</li>
+<li>One long extension called the axon.</li>
 <li>When a neuron receives a sufficient number of signals from other neurons within a few milliseconds, it fires its own signals.
 <img alt="Neuron" src="/Users/indranildutta/duttalab.github.io/dnn/neurom.png" /></li>
 </ol>
@@ -1123,7 +1095,7 @@ and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>
 <h1 id="biological-neural-networks-bnns">Biological Neural Networks (BNNS)<a class="headerlink" href="#biological-neural-networks-bnns" title="Permanent link"></a></h1>
 <ul>
 <li>Biological neurons are organized in a vast network of billions of neurons</li>
-<li>Each neuron connected to thousands of other neurons. </li>
+<li>Each neuron connected to thousands of other neurons.</li>
 <li>Highly complex computations can be performed by a vast network of fairly simple neurons</li>
 <li>Architecture of biological neural networks (BNN)</li>
 </ul>
@@ -1132,7 +1104,7 @@ and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>
 <h1 id="computations">Computations<a class="headerlink" href="#computations" title="Permanent link"></a></h1>
 <ul>
 <li><a href="http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf">Warren McCulloch and Walter Pitts</a> - simple model of the biological neuron</li>
-<li>It has one or more binary (on/off) inputs and one binary output. </li>
+<li>It has one or more binary (on/off) inputs and one binary output.</li>
 <li>The artificial neuron simply activates its output when more than a certain number of its inputs are active.</li>
 <li>
 <p><a href="http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf">Warren McCulloch and Walter Pitts</a> show that it is possible to build a network of artificial neurons that computes any logical proposition you want.</p>
@@ -1152,14 +1124,15 @@ and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>
 <li><em>Linear Threshold Unit (LTU)</em>*</li>
 </ul>
 <p><img alt="LTU" src="/Users/indranildutta/duttalab.github.io/dnn/ltu.png" /></p>
-<hr />
-<h1 id="readings-for-wednesday">Readings for Wednesday<a class="headerlink" href="#readings-for-wednesday" title="Permanent link"></a></h1>
-<ul>
-<li><a href="http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf">Warren McCulloch and Walter Pitts</a></li>
-<li><a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">Rosenblatt&rsquo;s perceptron</a></li>
-<li>Chapter 10 from <em>Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>. Aurélien Géron</li>
-<li><em>Neuronal Dynamics</em> <a href="http://neuronaldynamics.epfl.ch/online/Pt1.html">Chapter 1</a></li>
-</ul>
+<!-----
+# Readings for Wednesday
+* [Warren McCulloch and Walter Pitts](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)
+* [Rosenblatt's perceptron](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf)
+* Chapter 10 from *Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems*. Aurélien Géron
+* *Neuronal Dynamics* [Chapter 1](http://neuronaldynamics.epfl.ch/online/Pt1.html)
+
+-->
+
 <hr />
 <h1 id="warren-mcculloch-and-walter-pitts-1943-bulletin-of-mathematical-biophysics-vol-5-pp-115-133"><a href="http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf">Warren McCulloch and Walter Pitts</a>, 1943. <em>Bulletin of Mathematical Biophysics</em>, Vol. 5, pp. 115-133<a class="headerlink" href="#warren-mcculloch-and-walter-pitts-1943-bulletin-of-mathematical-biophysics-vol-5-pp-115-133" title="Permanent link"></a></h1>
 <h2 id="major-assumptions">Major assumptions<a class="headerlink" href="#major-assumptions" title="Permanent link"></a></h2>
@@ -1176,5 +1149,167 @@ and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems</em>
 <li>A single layer of LTUs</li>
 <li>Each neuron connected to all inputs</li>
 <li>They output whatever they are fed; <em>passthrough</em></li>
-<li>Bias feature $$ x_{0} $$</li>
+<li>Bias feature $ x_{0} $ = 1, always outputs 1</li>
+</ul>
+<hr />
+<h1 id="perceptron-training">Perceptron training<a class="headerlink" href="#perceptron-training" title="Permanent link"></a></h1>
+<ul>
+<li><strong>Hebb&rsquo;s rule</strong></li>
+<li>&ldquo;<em>&hellip;the connection weight between two neurons is increased whenever they have the same output&hellip;</em>&ldquo;</li>
+<li>Wrong outputs are not reinforced</li>
+<li>$W_{i,j}$$^{next step}$ = $W_{i,j}$ + n( $\hat{y}<em j="j">{j}$ - $y</em>$)$x_{i}$</li>
+</ul>
+<hr />
+<h1 id="perceptron-training_1">Perceptron training<a class="headerlink" href="#perceptron-training_1" title="Permanent link"></a></h1>
+<ul>
+<li>$W_{i,j}$$^{next step}$ = $W_{i,j}$ + n( $\hat{y}<em j="j">{j}$ - $y</em>$)$x_{i}$, here</li>
+<li>$W_{i,j}$ is the connection weight between the $i^{th}$ input neuron and the $j^{th}$ output neuron</li>
+<li>$x_{i}$ is the $i^{th}$ input of the current training instance</li>
+<li>$\hat{y}_{j}$ is the $j^{th}$ output neuron for the current training instance</li>
+<li>$y_{j}$ is the target output neuron for the current training instance</li>
+<li>n is the learning rate</li>
+</ul>
+<hr />
+<h1 id="iris-dataset">Iris dataset<a class="headerlink" href="#iris-dataset" title="Permanent link"></a></h1>
+<h2 id="import-numpy-as-np-from-sklearndatasets-import-load_iris-from-sklearnlinear_model-import-perceptron-iris-load_iris-x-irisdata-2-3-petal-length-petal-width-y-iristarget-0astypenpint-iris-setosa-per_clf-perceptronrandom_state42-per_clffitx-y-y_pred-per_clfpredict2-05"><div class="highlight"><pre><span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span> <span class="nn">from</span> <span class="nn">sklearn.datasets</span> <span class="nn">import</span> <span class="nn">load_iris</span>
+<span class="kn">from</span> <span class="nn">sklearn.linear_model</span> <span class="kn">import</span> <span class="n">Perceptron</span>
+<span class="n">iris</span> <span class="o">=</span> <span class="n">load_iris</span><span class="p">()</span>
+<span class="n">X</span> <span class="o">=</span> <span class="n">iris</span><span class="o">.</span><span class="n">data</span><span class="p">[:,</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">)]</span> <span class="c1"># petal length, petal width y = (iris.target == 0).astype(np.int) # Iris Setosa?</span>
+<span class="n">per_clf</span> <span class="o">=</span> <span class="n">Perceptron</span><span class="p">(</span><span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">)</span> <span class="n">per_clf</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span>
+<span class="n">y_pred</span> <span class="o">=</span> <span class="n">per_clf</span><span class="o">.</span><span class="n">predict</span><span class="p">([[</span><span class="mi">2</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">]])</span>
+</pre></div><a class="headerlink" href="#import-numpy-as-np-from-sklearndatasets-import-load_iris-from-sklearnlinear_model-import-perceptron-iris-load_iris-x-irisdata-2-3-petal-length-petal-width-y-iristarget-0astypenpint-iris-setosa-per_clf-perceptronrandom_state42-per_clffitx-y-y_pred-per_clfpredict2-05" title="Permanent link"></a></h2>
+<h1 id="multi-layer-perceptrons">Multi-layer perceptrons<a class="headerlink" href="#multi-layer-perceptrons" title="Permanent link"></a></h1>
+<ul>
+<li>One pass-through input layer</li>
+<li>One or more layers of LTUs or <em>hidden layers</em></li>
+</ul>
+<hr />
+<h1 id="historical-background">Historical background<a class="headerlink" href="#historical-background" title="Permanent link"></a></h1>
+<ul>
+<li>Chomsky&rsquo;s <em>Syntactic Structures</em> and <a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">Rosenblatt&rsquo;s</a> report <em>The perceptron: a perceiving and recognizing automaton</em>, both came out in 1957</li>
+<li>Both of these influential books shaped Cognitive Science for the next 60 years, albeit a bit divergently</li>
+<li>Chomsky and Rosenblatt’s approaches were radically different  alomost opposite</li>
+<li>Chomsky took a language, a “high level” cognitive phenomenon and showed show that even reasonably powerful computational machinery was not able to represent it.</li>
+<li>Rosenblatt &ndash; simple computational machinery – mathematical analogues of neural activation and synaptic connections – helps represent “low level” cognitive processes; object perception and recognition, and representations could be learned algorithmically.</li>
+</ul>
+<hr />
+<h1 id="birth-of-ai">Birth of AI<a class="headerlink" href="#birth-of-ai" title="Permanent link"></a></h1>
+<ul>
+<li>Artificial Intelligence (AI) in 1956 by John McCarthy and Marvin Minsky</li>
+<li>Generative linguistics and neural network modeling developed in isolation</li>
+<li>Thirty years later <a href="http://psych.colorado.edu/~kimlab/Rumelhart.McClelland.86.pasttense.pdf">Rumelhart and McClelland (1986)</a> developed a perceptron-based, or connectionist model of past tense formation in English</li>
+<li>Debate between “algebraic” approaches to cognition, like generative linguistics, and “analogical” models, like connectionism, shaped cognitive science in the late 1980s and early 1990s.</li>
+</ul>
+<hr />
+<h1 id="three-waves-of-nn-research">Three waves of NN research<a class="headerlink" href="#three-waves-of-nn-research" title="Permanent link"></a></h1>
+<ol>
+<li>Late 1950s and early 1960s</li>
+<li>The 1980s</li>
+<li>The 2010s and onwards</li>
+</ol>
+<ul>
+<li>First wave: Rosenblatt’s (1957) perceptron</li>
+<li>Analogues of neural structure developed in earlier work; McCulloch and Pitts (1943) and Hebb (1949).</li>
+<li>The activity of a neuron – also called a node or a unit – is represented as a numerical value, often as 1 or 0, on or off.</li>
+<li>Activity is passed along synaptic connections to other neurons.</li>
+<li>Connections are weighted: each one has a real valued number that is multiplied by the signal it receives from an input node.</li>
+<li>Node activation: sum of incoming weighted signals exceeds a designated threshold (given a step-activation function, rather than a sigmoidal activation function).</li>
+</ul>
+<p><img alt="Typical Perceptron" src="https://i.loli.net/2018/01/31/5a7188a25bf22.png" /></p>
+<hr />
+<h1 id="weighted-means-and-activation">Weighted means and activation<a class="headerlink" href="#weighted-means-and-activation" title="Permanent link"></a></h1>
+<ul>
+<li>Column 1: input</li>
+<li>Connection weights and activation threshold of 0.5</li>
+<li>The weighted sum shows the total signal received by the Output node, and its resultant activation is shown in the final column.</li>
+</ul>
+<p><img alt="" src="https://i.loli.net/2018/02/07/5a7a734b101f2.png" /></p>
+<hr />
+<h1 id="xor-logical-relations">XOR Logical Relations<a class="headerlink" href="#xor-logical-relations" title="Permanent link"></a></h1>
+<ul>
+<li>Sets characterized by an “exclusive or” logical relation (XOR) cannot be picked out by this type of network</li>
+<li>☆, ♦, XOR set: “+Black, or +Star, but not both”</li>
+<li>So how do we fix this?</li>
+</ul>
+<p><img alt="" src="https://i.loli.net/2018/02/07/5a7a734b101f2.png" />
+* Include an Input node that is activated by the conjunction of the features [+Black] and [+Star].
+* The weight on the connection from that node could be given a negative value sufficiently high that the black star’s activation falls beneath the 0.5 threshold
+* The other black object and the other star’s activation are above it.
+* The classificatory power of this simple type of perceptron is dependent on content of the Input nodes: with arbitrarily complex combinations of features, it can perform arbitrarily complex classifications.
+A simple MLP
+<img alt="" src="https://i.loli.net/2018/02/07/5a7a76f932639.png" /></p>
+<hr />
+<h1 id="input-to-hidden-layer">Input to hidden layer<a class="headerlink" href="#input-to-hidden-layer" title="Permanent link"></a></h1>
+<ul>
+<li>The weights on the connections to hidden layer Node 1 from the Input nodes are 0.26 and 0.27.</li>
+<li>This results in a weighted sum of 0.53 for the <strong>black star</strong>, and activation only for that object given the 0.5 threshold.</li>
+<li>This implements logical AND.</li>
+<li>Because the weight from Node 1 to the Output node is negative, the black star receives a penalty, which implements the “but not both” clause of XOR.</li>
+<li>The first node (bold) is active only when both features are present, while the second is active for objects that are either +Black or +Star (logical OR).</li>
+</ul>
+<p><img alt="" src="https://i.loli.net/2018/02/07/5a7a8777eefa2.png" /></p>
+<hr />
+<h1 id="hidden-layer-to-output">Hidden layer to output<a class="headerlink" href="#hidden-layer-to-output" title="Permanent link"></a></h1>
+<ul>
+<li>Input to this layer is the last column from the previous table.</li>
+<li>The activation values (2) are copied into the Node 1 and Node 2 columns of (3).</li>
+</ul>
+<p><img alt="" src="https://i.loli.net/2018/02/07/5a7a8b0b3e61a.png" /></p>
+<hr />
+<h1 id="task-in-class">Task in class<a class="headerlink" href="#task-in-class" title="Permanent link"></a></h1>
+<ul>
+<li>Read and implement a Leaky Integrate and Fire model</li>
+</ul>
+<h2 id="from-numpy-import-from-pylab-import-setup-parameters-and-state-variables-t-50-total-time-to-simulate-msec-dt-0125-simulation-time-step-msec-time-arange0-tdt-dt-time-array-t_rest-0-initial-refractory-time-lif-properties-vm-zeroslentime-potential-v-trace-over-time-rm-1-resistance-kohm-cm-10-capacitance-uf-tau_m-rmcm-time-constant-msec-tau_ref-4-refractory-period-msec-vth-1-spike-threshold-v-v_spike-05-spike-delta-v-input-stimulus-i-15-input-current-a-iterate-over-each-time-step-for-i-t-in-enumeratetime-if-t-t_rest-vmi-vmi-1-vmi-1-irm-tau_m-dt-if-vmi-vth-vmi-v_spike-t_rest-t-tau_ref-plot-membrane-potential-trace-plottime-vm-titleleaky-integrate-and-fire-example-ylabelmembrane-potential-v-xlabeltime-msec-ylim02-show"><div class="highlight"><pre>from numpy import *
+from pylab import *
+
+## setup parameters and state variables
+T       = 50                  # total time to simulate (msec)
+dt      = 0.125               # simulation time step (msec)
+time    = arange(0, T+dt, dt) # time array
+t_rest  = 0                   # initial refractory time
+
+## LIF properties
+Vm      = zeros(len(time))    # potential (V) trace over time
+Rm      = 1                   # resistance (kOhm)
+Cm      = 10                  # capacitance (uF)
+tau_m   = Rm*Cm               # time constant (msec)
+tau_ref = 4                   # refractory period (msec)
+Vth     = 1                   # spike threshold (V)
+V_spike = 0.5                 # spike delta (V)
+
+## Input stimulus
+I       = 1.5                 # input current (A)
+
+## iterate over each time step
+for i, t in enumerate(time):
+  if t &gt; t_rest:
+    Vm[i] = Vm[i-1] + (-Vm[i-1] + I*Rm) / tau_m * dt
+    if Vm[i] &gt;= Vth:
+      Vm[i] += V_spike
+      t_rest = t + tau_ref
+
+## plot membrane potential trace
+plot(time, Vm)
+title(&#39;Leaky Integrate-and-Fire Example&#39;)
+ylabel(&#39;Membrane Potential (V)&#39;)
+xlabel(&#39;Time (msec)&#39;)
+ylim([0,2])
+show()
+</pre></div><a class="headerlink" href="#from-numpy-import-from-pylab-import-setup-parameters-and-state-variables-t-50-total-time-to-simulate-msec-dt-0125-simulation-time-step-msec-time-arange0-tdt-dt-time-array-t_rest-0-initial-refractory-time-lif-properties-vm-zeroslentime-potential-v-trace-over-time-rm-1-resistance-kohm-cm-10-capacitance-uf-tau_m-rmcm-time-constant-msec-tau_ref-4-refractory-period-msec-vth-1-spike-threshold-v-v_spike-05-spike-delta-v-input-stimulus-i-15-input-current-a-iterate-over-each-time-step-for-i-t-in-enumeratetime-if-t-t_rest-vmi-vmi-1-vmi-1-irm-tau_m-dt-if-vmi-vth-vmi-v_spike-t_rest-t-tau_ref-plot-membrane-potential-trace-plottime-vm-titleleaky-integrate-and-fire-example-ylabelmembrane-potential-v-xlabeltime-msec-ylim02-show" title="Permanent link"></a></h2>
+<h1 id="spiking-neural-networks">Spiking Neural networks<a class="headerlink" href="#spiking-neural-networks" title="Permanent link"></a></h1>
+<ul>
+<li>Why spiking neural Networks?</li>
+<li>Speech and Language are dynamic process where decisions and predictions about upcoming segments/words/categories is generated dynamically during processing</li>
+<li>The artificial neural networks that we are familiar with use various architectures, namely, Recurrent Neural Networks to model this dynamic tuning.</li>
+</ul>
+<hr />
+<h1 id="today">Today<a class="headerlink" href="#today" title="Permanent link"></a></h1>
+<ul>
+<li>Discussion about projects</li>
+</ul>
+<hr />
+<h1 id="vectorization">Vectorization<a class="headerlink" href="#vectorization" title="Permanent link"></a></h1>
+<ul>
+<li>One-hot encoding</li>
 </ul></article></body></html>
