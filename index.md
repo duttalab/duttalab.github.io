@@ -1,7 +1,9 @@
 ---
-title: About spidaɪlæb
+title: Speech Dynamics Laboratory
+subtitle: SpeeDylab - [spidaɪlæb]
 ---
 
+# About [spidaɪlæb]
 Our lab is engaged in conducting acoustic phonetic and speech production studies on the one hand and also large scale corpus level investigations of various speech phenomenon using automatic methods.
 
 The general approach followed by us treats speech as a dynamic process which needs to be modeled accordingly. We study both lab-based production and also use *machine learning* to unearth patterns of acoustic variation that are caused by the overlap of articulatory gestures.
