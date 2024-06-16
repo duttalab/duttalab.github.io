@@ -1,6 +1,5 @@
 ---
 title: Speech Dynamics Laboratory
-subtitle: SpeeDylab - [spidaɪlæb]
 ---
 
 # About [spidaɪlæb]
