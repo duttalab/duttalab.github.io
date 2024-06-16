@@ -8,7 +8,6 @@ I am computational linguist with interests in speech acoustics, motor control, a
 * Google scholar profile can be found [here](https://scholar.google.co.in/citations?user=i3fWqy4AAAAJ&hl=en). 
 * I tweet from [@academicmargin](https://twitter.com/academicmargin).
 
-[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) 
-
+[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [Workshop on Quantitative Methods in Linguistics (WoQuMeL)](summ_wkshp.md) [Linguistics Reading Group](rg.md)
 <!-- [#KnowCoDA](KnowCoDA.md) -->
 
