@@ -1,5 +1,6 @@
-
-# Linguistics Reading Group 
+---
+title: Linguistics Reading Group 
+---
 
 ## Schedule
 Week One: Metrical theory of stress and moraic theory
