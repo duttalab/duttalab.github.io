@@ -1,10 +1,5 @@
 ---
 title: Publications
-output:
-	html_document:
-		toc: true
-		number_sections: true
-		toc_float: true
 ---
 
 # Peer-reviewed papers
