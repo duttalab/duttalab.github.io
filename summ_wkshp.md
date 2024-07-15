@@ -6,13 +6,15 @@ title: Workshop on Quantitative Methods in Linguistics (WoQuMeL)
 A 3-day workshop at Jadavpur University on using quantitiave methods in linguistic research and analysis
 
 # When?
-Tentatively the last week of June or first week of July, 2024. Exact dates TBA
+22nd-24th July, 2024, 11:00 am till 1:00 pm and 2:00 pm till 5:00 pm.
 
 # Limited participation
 Due to the availability of limited resources, the workshop will be limited to 15 participants.
 
 # Selection process
-Each potential participant will write a one page (or 500 words) expression of interest (EoI) which will be evaluated and reviewed in a single-blind manner. Reviews will be made available to everyone. In this EoI, potential participants should state as clearly as possible, their research statement and/or questions. While no prior knowledge of quantiative analysis is expected or assumed, evaluation will depend on how the participant would want to address a research question quantitatively. Often times, quantiative methods are thought of as techniques that can be applied to already existing data. In this workshop we will lay emphasis on the need to design experiments with the statistical tests in mind.
+Each potential participant will write a one page (or 300 words) expression of interest (EoI) which will be evaluated and reviewed in a single-blind manner. Reviews will be made available to everyone. In this EoI, potential participants should state as clearly as possible, their research statement and/or questions. While no prior knowledge of quantitative analysis is expected or assumed, evaluation will depend on how the participant would want to address a research question quantitatively. Often times, quantitative methods are thought of as techniques that can be applied to already existing data. In this workshop we will lay emphasis on the need to design experiments with the statistical tests in mind.
+
+Please fill out the following [google form](https://forms.gle/wjJVoZ1R2Rwkn1CB7) that will help us evaluate your proposed project. 
 
 # Software environment
 - [R](https://www.r-project.org)
