@@ -8,6 +8,9 @@ A 3-day workshop at Jadavpur University on using quantitiave methods in linguist
 # When?
 22nd-24th July, 2024, 11:00 am till 1:00 pm and 2:00 pm till 5:00 pm.
 
+# Venue?
+School of Languages and Linguistics, SLL-2. This is the lab classroom of the School of Languages and Linguistics located on the 3rd floor of the UG Science building.
+
 # Limited participation
 Due to the availability of limited resources, the workshop will be limited to 15 participants.
 
