@@ -39,8 +39,8 @@ This workshop will be free for selected participants.
 All data and code generated during the workshop will be made available on github.
 
 ## Day 1 slides
-- [Slides](day1.pdf)
-- [Quarto](day.qmd)
+- [Slides](https://duttalab.github.io/files/day1.pdf)
+- [Quarto](https://duttalab.github.io/files/day.qmd)
 
 
 [spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [Workshop on Quantitative Methods in Linguistics (WoQuMeL)](summ_wkshp.md) [Linguistics Reading Group](rg.md)
