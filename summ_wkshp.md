@@ -39,6 +39,6 @@ This workshop will be free for selected participants.
 All data and code generated during the workshop will be made available on github.
 
 ## Slides
-- [Slides for all three days of the workshop](https://duttalab.github.io/files/woqumel.pdf)
+- [Slides for three days of the workshop](https://duttalab.github.io/files/woqumel.pdf)
 
 [spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [Workshop on Quantitative Methods in Linguistics (WoQuMeL)](summ_wkshp.md) [Linguistics Reading Group](rg.md)
