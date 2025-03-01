@@ -3,7 +3,7 @@ title: Publications
 ---
 
 # Peer-reviewed papers
-1. Dutta, Indranil and Molly Varghese. Fundamental frequency perturbation is a consequence of the biomechanics of voicing and not due to phonological status. *The Journal of Acoustical Society of India*. Vol. 51. Number 4. Pp: 268-275.
+1. Dutta, Indranil and Molly Varghese. [Fundamental frequency perturbation is a consequence of the biomechanics of voicing and not due to phonological status](https://duttalab.github.io/files/dutta_varghese.pdf). *The Journal of Acoustical Society of India*. Vol. 51. Number 4. Pp: 268-275.
 1. Dao, Shihao, Indranil Dutta and Adamantios Gafos. 2024. [Articulatory timing in Hindi CV sequences](https://duttalab.github.io/files/issp_2024.pdf). In *Proceedings of the 13th International Seminar on Speech Production*. pp: 77-80. Autrans, France.
 2. Barman, Amit, Devangan Roy, Dabapriya Paul, Indranil Dutta, Shouvik Kumar Guha, Samir Karmakar, Sudip Kumar Naskar. 2023. Convolutional Neural Networks can achieve binary bail judgment classification. In the *Proceedings of the 20th International Conference on Natural language Processing (ICON-20)*. 14th-17th December, 2023. Goa.
 3. Mandal, Atanu, Gargi Roy, Amit Barman, Indranil Dutta, Sudip Kumar Naskar. 2023. Attentive Fusion: A Transformer-based Approach to Multimodal Hate Speech Detection. In the *Proceedings of the 20th International Conference on Natural language Processing (ICON-20)*. 14th-17th December, 2023. Goa.
