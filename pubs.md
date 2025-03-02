@@ -1,5 +1,6 @@
 ---
 title: Publications
+id: pubs
 ---
 
 # Peer-reviewed papers
