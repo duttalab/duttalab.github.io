@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
-title: Speech Dynamic Laboratory
+title: Speech Dynamics Laboratory
 plugins:
   - jekyll-include-cache
 
@@ -10,3 +10,4 @@ serve_og_meta: true
 sidebar:
     - spidylab
     - pubs
+    - projects
