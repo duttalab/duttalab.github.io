@@ -3,7 +3,7 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 title: Speech Dynamics Laboratory
 plugins:
   - jekyll-include-cache
-
+version: false
 url:  # should be empty
 baseurl:  # should be empty
 serve_og_meta: true
