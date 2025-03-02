@@ -1,5 +1,6 @@
 ---
 title: Projects
+id: projects
 ---
 
 # Current Projects

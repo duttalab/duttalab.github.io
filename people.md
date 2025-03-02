@@ -1,5 +1,6 @@
 ---
 title: People
+id: people
 ---
 
 # Lab Director
