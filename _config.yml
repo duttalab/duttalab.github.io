@@ -1,4 +1,3 @@
-theme: jekyll-theme-zendesk-garden
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 title: Speech Dynamics Laboratory
 plugins:
