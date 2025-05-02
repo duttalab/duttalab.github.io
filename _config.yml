@@ -7,7 +7,6 @@ url:  # should be empty
 baseurl:  # should be empty
 serve_og_meta: true
 sidebar:
-    - spidylab
     - pubs
     - projects
     - people
