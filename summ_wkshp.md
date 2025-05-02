@@ -1,6 +1,6 @@
 ---
 title: Workshop on Quantitative Methods in Linguistics (WoQuMeL)
-id: WoQuMeL
+id: summ_wkshp
 ---
 
 # What and where?
