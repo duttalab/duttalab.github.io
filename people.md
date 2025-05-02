@@ -33,6 +33,6 @@ id: people
 - [Dr. Charles Redmon](https://www.chredmon.com/), University of Oxford
 <!--* Irfan Shailendra, University of Illinois at Urbana-Champaign-->
 
-[spidaɪlæb](index.md) [Publications](pubs.md) [People](people.md) [Projects](projects.md) [Workshop on Quantitative Methods in Linguistics (WoQuMeL)](summ_wkshp.md) [Linguistics Reading Group](rg.md)
+
 <!-- [#KnowCoDA](KnowCoDA.md) -->
 

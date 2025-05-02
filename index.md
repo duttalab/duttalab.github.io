@@ -1,5 +1,6 @@
 ---
 title: Speech Dynamics Laboratory
+id: spidylab
 ---
 
 # About [spidaɪlæb]
