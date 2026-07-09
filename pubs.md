@@ -47,7 +47,8 @@ Indranil Dutta. 2015\. Review of ['_Turbulent sounds: An interdisciplinary guide
 ## Conference presentations
 
 ### 2025
-1. Basak, Kounish, Sankhadeep Ghosh, Indranil Dutta and Tariq Shekh. 2025. Shared and Non-Shared Features in Interlanguage Phonology: A Study of Japanese Speakers of Bengali (L2/3). Paper presented at *JSLS2025: 26th Annual International Conference of the Japanese Society For Language Sciences*. 12-13 July 2025. Ehime University, Matsuyama.
+1. Mahato, Baidyanath and Indranil Dutta. 2025. Acoustic Analysis of Kudmali Vowels. Paper presented at ICOLSI-47:47th International Conference of Linguistic Society of India. 12-14 November 2025. Jadavpur University, Kolkata.
+2. Basak, Kounish, Sankhadeep Ghosh, Indranil Dutta and Tariq Shekh. 2025. Shared and Non-Shared Features in Interlanguage Phonology: A Study of Japanese Speakers of Bengali (L2/3). Paper presented at *JSLS2025: 26th Annual International Conference of the Japanese Society For Language Sciences*. 12-13 July 2025. Ehime University, Matsuyama.
 
 ### 2024
 Dao, Shihao, Indranil Dutta & Adamantios Gafos. 2024. Articulatory timing in Hindi CV sequences. Presented at the 13th International Seminar on Speech Production. 13-17 May 2024, Autrans (France).
