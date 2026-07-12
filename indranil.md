@@ -13,6 +13,7 @@ I am computational linguist with interests in speech acoustics, motor control, a
 
 ## Recent public talks
 - _When Machines Listen: Language, Voice, and Meaning in the Digital Age_ invited lecture at Mizoram University, 30th April 2026
+- _Include, Scale, and Reach Out - Challenges Ahead and Learning from ManyX Projects_ at the [BTS Conference 2025](https://www.youtube.com/watch?v=eGJUscFOsys)
 - _Translation and Annotation of Code-Switched Data_ at the Translation and Annotation of Scientific, Technical and Knowledge Texts Workshop, Indian Statistical Institute, 5th March 2025
 - _Speaking to Thrive: The Power of Mother Tongue Education and Multilingual Minds_ invited lecture at the Language Division, Census of India, 21st February 2024
 
