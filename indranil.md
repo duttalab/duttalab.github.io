@@ -8,5 +8,14 @@ I am computational linguist with interests in speech acoustics, motor control, a
 * Google scholar profile can be found [here](https://scholar.google.co.in/citations?user=i3fWqy4AAAAJ&hl=en). 
 * I am on Bluesky [@academicmargin](https://bsky.app/profile/academicmargin.bsky.social).
 
+## Upcoming talks
+- _Contrast density and shared phonological features in creative phonetic representations: articulatory, acoustic and perceptual evidence from South Asian languages_, invited lecture at the 40th South Asian Language Analysis ([SALA-40](https://wwwhomes.uni-bielefeld.de/jhartmann25/cgi/sala2026/index.php)) roundtable, 9th-11th September 2026, Universit\"at Bielefeld
+
+## Recent public talks
+- _When Machines Listen: Language, Voice, and Meaning in the Digital Age_ invited lecture at Mizoram University, 30th April 2026
+- _Translation and Annotation of Code-Switched Data_ at the Translation and Annotation of Scientific, Technical and Knowledge Texts Workshop, Indian Statistical Institute, 5th March 2025
+- _Speaking to Thrive: The Power of Mother Tongue Education and Multilingual Minds_ invited lecture at the Language Division, Census of India, 21st February 2024
+
+
 <!-- [#KnowCoDA](KnowCoDA.md) -->
 
